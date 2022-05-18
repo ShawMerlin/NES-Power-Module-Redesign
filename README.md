@@ -32,6 +32,6 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 # NES Classic Power Module with Composite Out, Sound Amp with Gain and Bass Boost.
 ![image](https://user-images.githubusercontent.com/70423454/168949227-5d2c3d04-4d48-4b28-ae74-58a9b1efb8bf.png)
 
-# Full uninterrupted Ground Plane on the back of the board (Great for EMI)  :)
+# Full uninterrupted ground plane on the back of the board
 ![image](https://user-images.githubusercontent.com/70423454/168949041-084ab601-f7b4-46a8-a07b-880763b795da.png)
 
