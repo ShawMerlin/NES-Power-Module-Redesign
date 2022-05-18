@@ -4,6 +4,10 @@ Completely Redesigning the NES Power Module to Reduce Noise and EMI
 The original NES Power Module is very noisy.  The Power Traces cross eachother and the ground home path is messy.
 EMI was not a worry in 1985 but noise can impact picture and sound quality
 
+# Updates
+- 5/17/2022 - Both Classic and Classic with Sound AMP PCBshave been ordered for testing.  
+- Once verified, the open source files will be released.
+
 
 # Goals with these new NES Power Modules
 - Full Ground Plane that is uninterrupted and is free of traces and components.
