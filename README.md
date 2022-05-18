@@ -26,8 +26,7 @@ Please link back here if this helps you with your own project.
 
 More Content Like this - www.facebook.com/GeekIslandGaming
 
-# NES Classic Power Module with Composite Out
-# Two channel Mono and the cleanest setup of them all.
+# NES Classic Power Module with Composite Out with Two Channel Mono Sound.
 ![image](https://user-images.githubusercontent.com/70423454/168948985-2c1b2c48-4d05-4828-a527-cc87f3fc94c0.png)
 
 # NES Classic Power Module with Composite Out, Sound Amp with Gain and Bass Boost.
