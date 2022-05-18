@@ -24,6 +24,8 @@ Please link back here if this helps you with your own project.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=97YFBJX4NXA8W)
 
+More Content Like this - www.facebook.com/GeekIslandGaming
+
 # NES Classic Power Module with Composite Out, two channel Mono and the cleanest setup of them all.
 ![image](https://user-images.githubusercontent.com/70423454/168948985-2c1b2c48-4d05-4828-a527-cc87f3fc94c0.png)
 
