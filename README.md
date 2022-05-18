@@ -37,3 +37,6 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 # Full uninterrupted ground plane on the back of the board.
 ![image](https://user-images.githubusercontent.com/70423454/168949041-084ab601-f7b4-46a8-a07b-880763b795da.png)
 
+# NES RGB with Genesis 2 9 Pin Output
+![image](https://user-images.githubusercontent.com/70423454/168950608-0508ad47-c201-467a-90e9-f28008ada81e.png)
+
