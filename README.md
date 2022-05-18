@@ -25,9 +25,13 @@ Please link back here if this helps you with your own project.
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=97YFBJX4NXA8W)
 
 # NES Classic Power Module with Composite Out, two channel Mono and the cleanest setup of them all.
+![image](https://user-images.githubusercontent.com/70423454/168948985-2c1b2c48-4d05-4828-a527-cc87f3fc94c0.png)
 
-![image](https://user-images.githubusercontent.com/70423454/168940593-649d9130-9688-4395-b7aa-2ab4c469e2c3.png)
 
 
 # NES Classic Power Module with Composite Out, Sound Amp with Gain and Bass Boost.
 ![image](https://user-images.githubusercontent.com/70423454/168940227-c13d0176-e165-47bf-8463-c47a944d48db.png)
+
+# Full uninterrupted Ground Plane on the back of the board (Great for EMI)  :)
+![image](https://user-images.githubusercontent.com/70423454/168949041-084ab601-f7b4-46a8-a07b-880763b795da.png)
+
