@@ -29,8 +29,10 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 # NES Classic with Composite Out and Two Channel Mono Sound.
 ![image](https://user-images.githubusercontent.com/70423454/168948985-2c1b2c48-4d05-4828-a527-cc87f3fc94c0.png)
 
+
 # NES Classic with Sound Amp, Gain and Bass Boost.
 ![image](https://user-images.githubusercontent.com/70423454/168949227-5d2c3d04-4d48-4b28-ae74-58a9b1efb8bf.png)
+
 
 # Full uninterrupted ground plane on the back of the board.
 ![image](https://user-images.githubusercontent.com/70423454/168949041-084ab601-f7b4-46a8-a07b-880763b795da.png)
