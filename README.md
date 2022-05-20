@@ -14,7 +14,7 @@ EMI was not a worry in 1985 but noise can impact picture and sound quality
 - Power Traces that do not cross and have the GND plane below for a good return power signal.
 - Have a specific NES Power Module for each use case (not try and pile everything into one board)
 
-# ideas of Boards to design
+# Ideas of Boards to design
 - NES Classic Power Module
 - NES Classic Power Module with Sound Amp
 - NES RGB Power Module (for use with the NESRGB Board)
