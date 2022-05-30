@@ -5,7 +5,8 @@ The original NES Power Module is very noisy.  The Power Traces cross eachother a
 EMI was not a worry in 1985 but noise can impact picture and sound quality
 
 # Updates
-- 5/17/2022 - Both Classic and Classic with Sound AMP PCBshave been ordered for testing.  
+- 5/30/2022 - BOM created for Classic RCA Power Board and Uploaded, boards expected by 6/3.
+- 5/17/2022 - Both Classic and Classic with Sound AMP PCBs have been ordered for testing.  
 - Once verified, the open source files will be released.
 
 
