@@ -34,7 +34,7 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 ![image](https://user-images.githubusercontent.com/70423454/174685321-91c718d3-b8c1-4080-bf2e-ccdbdbf5ab00.png)
 
 
-# NES Classic with Sound Mixing of both Audio Channels on the NES + the Expansion Audio from the cassette.
+# NES Classic with Sound Mixing of both Audio Channels on the NES + the Expansion Audio from the cartridge.
 ![image](https://user-images.githubusercontent.com/70423454/174685106-e01e516d-f227-45d6-906e-9c3b89eb448b.png)
 
 
