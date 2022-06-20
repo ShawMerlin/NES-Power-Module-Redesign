@@ -34,8 +34,8 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 ![image](https://user-images.githubusercontent.com/70423454/168948985-2c1b2c48-4d05-4828-a527-cc87f3fc94c0.png)
 
 
-# NES Classic with Sound Amp, Gain and Bass Boost.
-![image](https://user-images.githubusercontent.com/70423454/168949227-5d2c3d04-4d48-4b28-ae74-58a9b1efb8bf.png)
+# NES Classic with Sound Mixing of both Audio Channels on the NES + the Expansion Audio from the cassette.
+![image](https://user-images.githubusercontent.com/70423454/174685106-e01e516d-f227-45d6-906e-9c3b89eb448b.png)
 
 
 # Full uninterrupted ground plane on the back of the board.
