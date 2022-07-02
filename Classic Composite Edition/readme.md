@@ -4,4 +4,4 @@ I have uploaded the Gerbers for this board and also a Bill of Materials and Posi
 
 You can use both these .CSV files to have JLCPCB provide and Assemble the SMD parts for you.
 
-=Picture Showcase!!
+# Picture Showcase!!
