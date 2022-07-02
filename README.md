@@ -5,7 +5,8 @@ The original NES Power Module is very noisy.  The Power Traces cross eachother a
 EMI was not a worry in 1985 but noise can impact picture and sound quality
 
 # Updates
-- 7/02/2022 - Prototypes for the Classic Power Module with Composite Video were successful!! I will be uploading Gerbers and BOMs.
+- 7/02/2022 - Prototypes for the Classic Power Module with Composite Video were successful!! 
+  Gerbers, Bill of Materials and Assemly Position files have been uploaded above.
 - 6/19/2022 - Replaced the LDO with a Switching Voltage Regulator for a low heat alternative.  New boards ordered. Expected by 6/27.
 - 5/30/2022 - BOM created for Classic RCA Power Board and Uploaded, boards expected by 6/3.
 - 5/17/2022 - Both Classic and Classic with Sound AMP PCBs have been ordered for testing.  
