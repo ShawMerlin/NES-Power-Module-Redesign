@@ -5,6 +5,7 @@ The original NES Power Module is very noisy.  The Power Traces cross eachother a
 EMI was not a worry in 1985 but noise can impact picture and sound quality
 
 # Updates
+- 7/13/2022 - First Production batch of Classic Power Module arrived.  I have also ordered the Soundmix and RGB Boards.
 - 7/02/2022 - Prototypes for the Classic Power Module with Composite Video were successful!! 
   
   Gerbers, Bill of Materials and Assemly Position files have been uploaded above.
