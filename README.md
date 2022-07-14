@@ -4,6 +4,15 @@ Completely Redesigning the NES Power Module to Reduce Noise and EMI
 The original NES Power Module is very noisy.  The Power Traces cross eachother and the ground home path is messy.
 EMI was not a worry in 1985 but noise can impact picture and sound quality
 
+Project is Open Sourced with a MIT License. It can be edited, changed and sold at your own discretion.  
+Please link back here if this helps you with your own project.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=97YFBJX4NXA8W)
+
+All Donations are reinvested into ideas and projects. Thank you for the support!!
+
+More Content Like this - www.facebook.com/GeekIslandGaming
+
 # Updates
 - 7/13/2022 - First Production batch of Classic Power Module arrived.  I have also ordered the Soundmix and RGB Boards.
 - 7/02/2022 - Prototypes for the Classic Power Module with Composite Video were successful!! 
@@ -25,14 +34,6 @@ EMI was not a worry in 1985 but noise can impact picture and sound quality
 - NES Classic Power Module with Sound Amp
 - NES RGB Power Module (for use with the NESRGB Board)
 
-Project is Open Sourced with a MIT License. It can be edited, changed and sold at your own discretion.  
-Please link back here if this helps you with your own project.
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=97YFBJX4NXA8W)
-
-All Donations are reinvested into ideas and projects. Thank you for the support!!
-
-More Content Like this - www.facebook.com/GeekIslandGaming
 
 # NES Classic with Composite Out and Two Channel Mono Sound.
 ![image](https://user-images.githubusercontent.com/70423454/174685321-91c718d3-b8c1-4080-bf2e-ccdbdbf5ab00.png)
