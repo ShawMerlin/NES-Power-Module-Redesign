@@ -14,7 +14,7 @@ All Donations are reinvested into ideas and projects. Thank you for the support!
 More Content Like this - www.facebook.com/GeekIslandGaming
 
 # Updates
-- 7/13/2022 - First Production batch of Classic Power Module arrived.  Kicad files available.
+- 7/13/2022 - First Production batch of Classic Power Module arrived.  Kicad files available and uploaded!
 
   I have also ordered the Soundmix and RGB Boards.
 - 7/02/2022 - Prototypes for the Classic Power Module with Composite Video were successful!! 
