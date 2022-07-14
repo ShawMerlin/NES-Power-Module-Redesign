@@ -42,9 +42,12 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 ![image](https://user-images.githubusercontent.com/70423454/174685106-e01e516d-f227-45d6-906e-9c3b89eb448b.png)
 
 
+# NES RGB with Genesis 2 9 Pin Output
+![image](https://user-images.githubusercontent.com/70423454/178882385-84817309-5f44-4b34-9d2e-d211b67a140b.png)
+
+
 # Full uninterrupted ground plane on the back of the board.
 ![image](https://user-images.githubusercontent.com/70423454/168949041-084ab601-f7b4-46a8-a07b-880763b795da.png)
 
-# NES RGB with Genesis 2 9 Pin Output
-![image](https://user-images.githubusercontent.com/70423454/168950608-0508ad47-c201-467a-90e9-f28008ada81e.png)
+
 
