@@ -29,11 +29,6 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 - Power Traces that do not cross and have the GND plane below for a good return power signal.
 - Have a specific NES Power Module for each use case (not try and pile everything into one board)
 
-# Ideas of Boards to design
-- NES Classic Power Module
-- NES Classic Power Module with Sound Amp
-- NES RGB Power Module (for use with the NESRGB Board)
-
 
 # NES Classic with Composite Out and Two Channel Mono Sound.
 ![image](https://user-images.githubusercontent.com/70423454/174685321-91c718d3-b8c1-4080-bf2e-ccdbdbf5ab00.png)
