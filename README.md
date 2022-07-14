@@ -48,4 +48,7 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 ![image](https://user-images.githubusercontent.com/70423454/178882985-10113429-9c53-49d7-8af7-299f41ff552a.png)
 
 
+# An easy to solder DIY Version of the Classic Composite RCA Edition.
+![image](https://user-images.githubusercontent.com/70423454/178912815-69de464f-e455-4c48-ad24-a6c0700d1272.png)
+
 
