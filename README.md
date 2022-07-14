@@ -39,7 +39,7 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 
 
 # NES Classic with Sound Mixing of both Audio Channels on the NES + the Expansion Audio from the cartridge.
-![image](https://user-images.githubusercontent.com/70423454/174685106-e01e516d-f227-45d6-906e-9c3b89eb448b.png)
+![image](https://user-images.githubusercontent.com/70423454/178882663-5e6f7176-0790-40b1-b94a-51364d7455e1.png)
 
 
 # NES RGB with Genesis 2 9 Pin Output
