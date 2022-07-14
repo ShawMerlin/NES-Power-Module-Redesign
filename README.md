@@ -47,7 +47,7 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 
 
 # Full uninterrupted ground plane on the back of the board.
-![image](https://user-images.githubusercontent.com/70423454/168949041-084ab601-f7b4-46a8-a07b-880763b795da.png)
+![image](https://user-images.githubusercontent.com/70423454/178882985-10113429-9c53-49d7-8af7-299f41ff552a.png)
 
 
 
