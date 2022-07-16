@@ -2,10 +2,15 @@
 
 <ins>Items Needed</ins> 
 
-- Soldering Iron
-- Solder
-- Flux
+- Soldering Iron - https://www.amazon.com/gp/product/B089SKWMPT
+- Solder - https://www.amazon.com/MG-Chemicals-Leaded-Solder-Pocket/dp/B072JQ1JH4
 - Soldering Wick - https://www.amazon.com/SRA-Soldering-Desoldering-Damage-Free-Removal/dp/B09PZLZSNT
+
+<ins>Items Optional </ins> 
+
+- Soldering Tips *(the one that come with the Iron are garabe)* - https://www.amazon.com/gp/product/B08QTW4LH5
+- Flux - https://www.amazon.com/AMTECH-NC-559-V2-TF-clean-free-tacky-hand-soldering/dp/B09NXCPNN3
+
 - 
 
 On the Chip side of the NES Main Board, Remove the metal shield over the Power Module.
