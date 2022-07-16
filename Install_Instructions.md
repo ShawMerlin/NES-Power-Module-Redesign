@@ -26,15 +26,15 @@ On the Chip side of the NES Main Board, Remove the metal shield over the Power M
 Desolder the below 5 Pins highlighted in Yellow.  Soldering Wick or a Soldering Gun should be used.
 
 Make sure each pin can move freely before moving on.
-
 ![image](https://user-images.githubusercontent.com/70423454/179365288-df28e6d7-2bf9-40c6-be32-d42333c60d89.png)
 
 
-
 Flip the board over and desolder the ground points highlighted in Yellow.  Do NOT desolder the 5 pins in red.
-
 ![image](https://user-images.githubusercontent.com/70423454/179365236-274d3eb5-2d6a-498c-834b-30d47d30f796.png)
 
+
+Carefully lift off the power module, This is what it will look like when the power modele has been removed.
+![image](https://user-images.githubusercontent.com/70423454/179368675-d41f29fc-1e22-4ef6-8a11-f49b31867e8f.png)
 
 
 Position the new NES Powerboard on the pins, level and then solder it on.
