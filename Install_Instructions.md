@@ -1,5 +1,7 @@
 # NES-Power-Module-Installation Instrucions
 
+ <u>Items Needed
+
 On the Chip side of the NES Main Board, Remove the metal shield over the Power Module.
 
 Desolder the below 5 Pins highlighted in Yellow.  Soldering Wick or a Soldering Gun should be used.
