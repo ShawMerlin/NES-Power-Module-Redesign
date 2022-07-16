@@ -33,7 +33,7 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 
 
 # NES Classic with Composite Out and Two Channel Mono Sound.
-![image](https://user-images.githubusercontent.com/70423454/174685321-91c718d3-b8c1-4080-bf2e-ccdbdbf5ab00.png)
+![image](https://user-images.githubusercontent.com/70423454/179363789-0d441539-1b11-453f-935a-af408a5b571a.png)
 
 
 # NES Classic with Sound Mixing of both Audio Channels on the NES + the Expansion Audio from the cartridge.
@@ -45,7 +45,7 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 
 
 # Full uninterrupted ground plane on the back of the board.
-![image](https://user-images.githubusercontent.com/70423454/178882985-10113429-9c53-49d7-8af7-299f41ff552a.png)
+![image](https://user-images.githubusercontent.com/70423454/179363800-cb818a45-c4a4-4a72-b937-716b4586f864.png)
 
 
 # An easy to solder DIY Version of the Classic Composite RCA Edition.
