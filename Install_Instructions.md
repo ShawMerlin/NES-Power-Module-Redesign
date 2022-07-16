@@ -6,7 +6,7 @@ Desolder the below 5 Pins highlighted in Yellow.  Soldering Wick or a Soldering 
 
 Make sure each pin can move freely before moving on.
 
-![image](https://user-images.githubusercontent.com/70423454/179365064-b1362baa-327e-4f47-b0b0-bc85dc61b9b9.png)
+![image](https://user-images.githubusercontent.com/70423454/179365288-df28e6d7-2bf9-40c6-be32-d42333c60d89.png)
 
 
 
