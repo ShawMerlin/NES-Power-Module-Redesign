@@ -48,7 +48,14 @@ The console will not power on if this is missed.  Please make sure to verify you
 
 
 #<ins>Tips for using Solder Braid</ins>
+
+
 Place the braid over unwanted solder, preferably on the greatest solder build up so that it maximizes the contact of the braid to the surface area of the solder.
+
 Next, place your iron tip over the wick at 45 degrees and allow heat to transfer to the pad. Molten solder will absorb into the braid.
+
 Move the solder tip and braid as needed to remove all of the solder at one time. Careful not to drag the braid over the pads, which can scratch.
-Once the braid is full of solder, you must trim the spent portion and move to fresh braid in order to pull more solder. Remove the iron and braid simultaneously to avoid soldering the wire to the board.
+
+Once the braid is full of solder, you must trim the spent portion and move to fresh braid in order to pull more solder. 
+
+Remove the iron and braid simultaneously to avoid soldering the wire to the board.
