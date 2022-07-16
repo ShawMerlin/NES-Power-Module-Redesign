@@ -22,9 +22,10 @@
 <ins>Instructions</ins> 
 
 On the Chip side of the NES Main Board, Remove the metal shield over the Power Module.
+![image](https://user-images.githubusercontent.com/70423454/179368982-04ed1b5e-bc62-4a36-ac7c-b79a2b427261.png)
+
 
 Desolder the below 5 Pins highlighted in Yellow.  Soldering Wick or a Soldering Gun should be used.
-
 Make sure each pin can move freely before moving on.
 ![image](https://user-images.githubusercontent.com/70423454/179365288-df28e6d7-2bf9-40c6-be32-d42333c60d89.png)
 
