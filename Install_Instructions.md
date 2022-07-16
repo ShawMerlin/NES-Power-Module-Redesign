@@ -1,17 +1,25 @@
 # NES-Power-Module-Installation Instrucions
 
 <ins>Items Needed</ins> 
-
 - Soldering Iron - https://www.amazon.com/gp/product/B089SKWMPT
 - Solder - https://www.amazon.com/MG-Chemicals-Leaded-Solder-Pocket/dp/B072JQ1JH4
 - Soldering Wick - https://www.amazon.com/SRA-Soldering-Desoldering-Damage-Free-Removal/dp/B09PZLZSNT
 
 <ins>Items Optional </ins> 
-
 - Soldering Tips *(the one that come with the Iron are garabe)* - https://www.amazon.com/gp/product/B08QTW4LH5
 - Flux - https://www.amazon.com/AMTECH-NC-559-V2-TF-clean-free-tacky-hand-soldering/dp/B09NXCPNN3
+- Solder Sucker - https://www.amazon.com/Teenitor-Solder-Sucker-Desoldering-Removal/dp/B0739LXQ6N
 
-- 
+<ins>Tips</ins> 
+- Never put your iron back without having solder on it.  This will help the tip not to oxidize.
+- Use a thick tip so that lots of heat can transfer to the solder wick.  Fine tips do not transfer heat well.
+- After Iron has heated up, clean the solder off on a sponge or brass cleaner and then tin the tip.
+- Do not go above 350 C on your soldering iron *(only exception will be for the large ground pads)*
+- Only leave the iron on the point for a few seconds, the longer you wait, the large the chance of pulling up the pad.
+- Use extra flux on the Solder Wick will help it quickly pull the solder out.
+- Put new solder and flux on all joints you want to desolder.  *(Larger Solder masses will suck up easier)*
+
+#<ins>Instructions</ins> 
 
 On the Chip side of the NES Main Board, Remove the metal shield over the Power Module.
 
@@ -38,4 +46,9 @@ Position the new NES Powerboard on the pins, level and then solder it on.
 Connect a ground wire from the new NES Power Board to the ground plane on the main NES Board.
 The console will not power on if this is missed.  Please make sure to verify you have done this correctly.
 
-![image](https://user-images.githubusercontent.com/70423454/179365089-8b0a5358-f2ac-4f93-b508-0109dd2eef19.png)
+
+#<ins>Tips for using Solder Braid</ins>
+Place the braid over unwanted solder, preferably on the greatest solder build up so that it maximizes the contact of the braid to the surface area of the solder.
+Next, place your iron tip over the wick at 45 degrees and allow heat to transfer to the pad. Molten solder will absorb into the braid.
+Move the solder tip and braid as needed to remove all of the solder at one time. Careful not to drag the braid over the pads, which can scratch.
+Once the braid is full of solder, you must trim the spent portion and move to fresh braid in order to pull more solder. Remove the iron and braid simultaneously to avoid soldering the wire to the board.
