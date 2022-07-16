@@ -9,6 +9,11 @@ Make sure each pin can move freely before moving on.
 ![image](https://user-images.githubusercontent.com/70423454/179365064-b1362baa-327e-4f47-b0b0-bc85dc61b9b9.png)
 
 
+Flip the board over and desolder the ground points highlited in Yellow.  Do NOT desolder the 5 pins in red.
+
+![image](https://user-images.githubusercontent.com/70423454/179365236-274d3eb5-2d6a-498c-834b-30d47d30f796.png)
+
+
 Position the new NES Powerboard on the pins, level and then solder it on.
 
 ![image](https://user-images.githubusercontent.com/70423454/179365084-cbc2710f-7526-4f7e-9ab1-cdfcf5b4c739.png)
