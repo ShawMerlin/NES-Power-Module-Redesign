@@ -1,6 +1,6 @@
 # NES-Power-Module-Installation Instrucions
 
- <u>Items Needed
+ <u>Items Needed</u>
 
 On the Chip side of the NES Main Board, Remove the metal shield over the Power Module.
 
