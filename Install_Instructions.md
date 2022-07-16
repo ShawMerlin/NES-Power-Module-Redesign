@@ -2,6 +2,12 @@
 
 <ins>Items Needed</ins> 
 
+- Soldering Iron
+- Solder
+- Flux
+- Soldering Wick - https://www.amazon.com/SRA-Soldering-Desoldering-Damage-Free-Removal/dp/B09PZLZSNT
+- 
+
 On the Chip side of the NES Main Board, Remove the metal shield over the Power Module.
 
 Desolder the below 5 Pins highlighted in Yellow.  Soldering Wick or a Soldering Gun should be used.
