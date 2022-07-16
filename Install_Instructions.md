@@ -19,7 +19,7 @@
 - Use extra flux on the Solder Wick will help it quickly pull the solder out.
 - Put new solder and flux on all joints you want to desolder.  *(Larger Solder masses will suck up easier)*
 
-#<ins>Instructions</ins> 
+<ins>Instructions</ins> 
 
 On the Chip side of the NES Main Board, Remove the metal shield over the Power Module.
 
