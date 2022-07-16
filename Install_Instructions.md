@@ -6,7 +6,7 @@
 - Soldering Wick - https://www.amazon.com/SRA-Soldering-Desoldering-Damage-Free-Removal/dp/B09PZLZSNT
 
 <ins>Items Optional </ins> 
-- Soldering Tips *(the one that come with the Iron are garabe)* - https://www.amazon.com/gp/product/B08QTW4LH5
+- Soldering Tips *(the one that come with the Iron are garbage)* - https://www.amazon.com/gp/product/B08QTW4LH5
 - Flux - https://www.amazon.com/AMTECH-NC-559-V2-TF-clean-free-tacky-hand-soldering/dp/B09NXCPNN3
 - Solder Sucker - https://www.amazon.com/Teenitor-Solder-Sucker-Desoldering-Removal/dp/B0739LXQ6N
 
