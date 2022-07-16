@@ -10,7 +10,7 @@ Make sure each pin can move freely before moving on.
 
 
 
-Flip the board over and desolder the ground points highlited in Yellow.  Do NOT desolder the 5 pins in red.
+Flip the board over and desolder the ground points highlighted in Yellow.  Do NOT desolder the 5 pins in red.
 
 ![image](https://user-images.githubusercontent.com/70423454/179365236-274d3eb5-2d6a-498c-834b-30d47d30f796.png)
 
