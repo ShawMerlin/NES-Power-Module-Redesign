@@ -33,7 +33,7 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 
 
 # NES Classic with Composite Out and Two Channel Mono Sound.
-![image](https://user-images.githubusercontent.com/70423454/179363789-0d441539-1b11-453f-935a-af408a5b571a.png)
+![image](https://user-images.githubusercontent.com/70423454/179364602-1bdc3004-8094-4e7d-8429-f9465256602e.png)
 
 
 # NES Classic with Sound Mixing of both Audio Channels on the NES + the Expansion Audio from the cartridge.
