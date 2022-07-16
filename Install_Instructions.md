@@ -11,7 +11,7 @@
 - Solder Sucker - https://www.amazon.com/Teenitor-Solder-Sucker-Desoldering-Removal/dp/B0739LXQ6N
 
 <ins>Tips</ins> 
-- Never put your iron back without having solder on it.  This will help the tip not to oxidize.
+- Always leave solder on iron when putting away. This will help the tip not to oxidize.
 - Use a thick tip so that lots of heat can transfer to the solder wick.  Fine tips do not transfer heat well.
 - After Iron has heated up, clean the solder off on a sponge or brass cleaner and then tin the tip.
 - Do not go above 350 C on your soldering iron *(only exception will be for the large ground pads)*
