@@ -10,4 +10,6 @@ You can use both these .CSV files to have JLCPCB provide and Assemble the SMD pa
 
 ![IMG_0247](https://user-images.githubusercontent.com/70423454/179364715-3eb0b7fd-7f62-46b9-8909-671c2c8192e6.JPG)
 
+![IMG_0253](https://user-images.githubusercontent.com/70423454/179364775-fea9a326-a6ca-4d14-ba35-7a6c670ecfa7.JPG)
+
 ![IMG_0248](https://user-images.githubusercontent.com/70423454/179364731-f40d4218-21f4-47a5-adba-e601ad28afcb.JPG)
