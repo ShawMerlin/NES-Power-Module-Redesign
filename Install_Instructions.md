@@ -48,6 +48,9 @@ Connect a ground wire from the new NES Power Board to the ground plane on the ma
 The console will not power on if this is missed.  Please make sure to verify you have done this correctly.
 
 
+![IMG_0247](https://user-images.githubusercontent.com/70423454/179426140-07c47ddd-48ca-4ac5-9abc-8f7afbc0ae5d.JPG)
+
+
 #<ins>Tips for using Solder Braid</ins>
 
 
