@@ -1,5 +1,6 @@
 # NES-Power-Module-Redesign
 Completely Redesigning the NES Power Module to Reduce Noise and EMI
+
 I have a limited run available for purchase at https://www.ebay.com/itm/144655516131
 
 The original NES Power Module is very noisy.  The Power Traces cross eachother and the ground home path is messy.
