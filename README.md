@@ -18,6 +18,7 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 All Donations are reinvested into ideas and projects. Thank you for the support!!
 # Updates
 - 8/22/2022 - Starting tests on the Sound Mix and RGB Edition, 
+  
   I have also added a new version below for the HDMI Hi-Def Mod.
 - 7/13/2022 - First Production batch of Classic Power Module arrived.  Kicad files available and uploaded!
 
