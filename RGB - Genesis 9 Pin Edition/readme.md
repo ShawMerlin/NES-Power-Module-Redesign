@@ -10,3 +10,6 @@ Key Features on this board.
 - 3 Way Side Switch that can be wired into the Palette Selection on the RGB Board - 
 
 ![image](https://user-images.githubusercontent.com/70423454/186765197-ad553ddd-35f1-48db-b001-a405b71ebd25.png)
+
+
+![image](https://user-images.githubusercontent.com/70423454/186766549-e20e6fe1-e165-44ac-8826-bfd8c546e7c3.png)
