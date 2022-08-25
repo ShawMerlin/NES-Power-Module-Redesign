@@ -55,7 +55,7 @@ All Donations are reinvested into ideas and projects. Thank you for the support!
 
 
 # An easy to solder DIY Version of the Classic Composite RCA Edition.
-![image](https://user-images.githubusercontent.com/70423454/186548111-39f9b353-50d5-408f-8572-c1357579115d.png)
+![image](https://user-images.githubusercontent.com/70423454/186550171-d461cc94-1ec4-4059-8845-3939911fba0a.png)
 
 
 # For the few that own the NES HDMI Board, this module will provide very easy solder points without the need of the LDO.
