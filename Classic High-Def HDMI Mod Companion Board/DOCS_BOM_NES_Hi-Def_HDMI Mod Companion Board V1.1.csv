@@ -1,0 +1,17 @@
+Comment,Designator,SMD Footprints,LCSC,Mouser
+10nF,C2,Capacitor_SMD:C_0805_2012Metric,C1710,
+Green_LED,D2,LED_SMD:LED_0805_2012Metric,C2297,
+2K,R1,Resistor_SMD:R_0805_2012Metric,C17798,
+300R,R2,Resistor_SMD:R_0805_2012Metric,C17617,
+110R,R3,Resistor_SMD:R_0805_2012Metric,C17423,
+2SA1015,Q1,Package_TO_SOT_SMD:SOT-23,C545569,
+,,,,
+Comment,Designator,Through Hole FootPrints,LCSC,Mouser
+2200uF,C1,Capacitor_THT:CP_Radial_D12.5mm_P5.00mm,C225868,UVZ1E222MHD
+100uF,C5,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm, ,50ML1MEFC4X5
+220uF,C8,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,C2897445,6SEPC220M+TSS
+Power Jack,J1,"2.1mm ID, DC Power Supply Connector, 2 Pin", ,PJ-037A
+Red RCA,,Right Audio - Red RCA Jack,,"RCJ-042	"
+White RCA,,Left Audio - White RCA Jack,,"RCJ-043	"
+Yellow RCA,,Video Out Yellow RCA Jack,,"RCJ-044	"
+AC->DC,,Bridge Rectifiers VR=600V IAV=2.0A,,DF206ST-G
