@@ -17,6 +17,9 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 
 All Donations are reinvested into ideas and projects. Thank you for the support!!
 # Updates
+- 9/10/2022 - Sound Mix board needed a couple of small changes but the RGB, DIY THT, and new HDMI Companion board are working great!!
+ I will be updating the folders on this github with those gerber files too.
+
 - 8/24/2022 - Uploaded BOM, Gerber and Kicad Files for the DIY THT Classic RCA Power Module. 
 - 8/22/2022 - Starting tests on the Sound Mix and RGB Edition.
   
