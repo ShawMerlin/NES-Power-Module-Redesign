@@ -65,6 +65,10 @@ All Donations are reinvested into ideas and projects. Thank you for the support!
 # For the few that own the NES HDMI Board, this module will provide very easy solder points without the need of the LDO.
 ![image](https://user-images.githubusercontent.com/70423454/185999783-296dcafc-dfe5-4f3a-911b-82fa9e63dd2f.png)
 
+#example of the Orignal Power Module and how the power traces keep crossing eachother and other components.
+They really didn't consider EMI a lot back then and opted to just cover the entire board in a metal shoud.
+
+![image](https://user-images.githubusercontent.com/70423454/189474492-a8b75d50-ffc9-4e5b-844f-7f16a31056be.png)
 
 
 
