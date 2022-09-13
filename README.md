@@ -55,6 +55,9 @@ All Donations are reinvested into ideas and projects. Thank you for the support!
 # NES RGB with Genesis 2 9 Pin Output
 ![image](https://user-images.githubusercontent.com/70423454/179364346-10a60070-cbb6-477c-8ade-21a8580034ce.png)
 
+# NES RGB with Component Video Output on a 3.5mm 4-Pole Jack
+![image](https://user-images.githubusercontent.com/70423454/189783568-f1cf38ee-65e5-4db7-b72b-ce9a9776c198.png)
+
 
 # Full uninterrupted ground plane on the back of the board.
 ![image](https://user-images.githubusercontent.com/70423454/179363800-cb818a45-c4a4-4a72-b937-716b4586f864.png)
