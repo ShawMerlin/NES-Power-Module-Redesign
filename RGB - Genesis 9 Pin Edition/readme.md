@@ -1,4 +1,7 @@
-Gerbers, BOM and POS (JLCPCB Assembly) Files are now available.
+Gerbers, BOM and POS (JLCPCB Assembly) will be available after testing is completed.
+
+9/12/2022 - I have made a couple of changes to the RGB Board, I have moved the 9 pin Genesis Connector closer and fixed part of the audio circuit.
+The Gerber files have been taken down until we get this new one tested.
 
 Key Features on this board.
 - Seperate Ground Plane from the 5V Regulator and the RGB Traces.  3 Grounding points on the Board. 
