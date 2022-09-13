@@ -18,6 +18,7 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 All Donations are reinvested into ideas and projects. Thank you for the support!!
 # Updates
 - 9/12/2022 - I found a couple of issues on the Sound and RGB Board which are being fixed.  The Classic and THT Versions are still good.
+ Added new concept of a Component Output board and created a folder for it with Pictures.
 
 - 9/10/2022 - Sound Mix board needed a couple of small changes but the RGB, DIY THT, and new HDMI Companion board are working great!!
  I will be updating the folders on this github with those gerber files too.
