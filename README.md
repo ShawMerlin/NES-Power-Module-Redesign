@@ -50,7 +50,7 @@ All Donations are reinvested into ideas and projects. Thank you for the support!
 
 
 # NESRGB Compantion Power Module with Component Video Output
-![image](https://user-images.githubusercontent.com/70423454/190882469-c4c12c40-532e-456b-a76d-edfb54e9cfb6.png)
+![image](https://user-images.githubusercontent.com/70423454/190882732-483e089b-55ca-4c39-ab0b-c388fb78fe72.png)
 
 
 # NES Classic with Composite Out and Two Channel Mono Sound.
