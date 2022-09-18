@@ -18,6 +18,8 @@ ShawTech LLC
 
 All Donations are reinvested into ideas and projects. Thank you for the support!!
 # Updates
+- 9/17/2022 - I tested the Component (Y/pB/pR) circuit with the NESRGB Board and it looked great!!  I have these new PCBs on order
+
 - 9/12/2022 - I found a couple of issues on the Sound and RGB Board which are being fixed.  The Classic and THT Versions are still good.
  Added new concept of a Component Output board and created a folder for it with Pictures.
 
