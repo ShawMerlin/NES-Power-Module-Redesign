@@ -45,6 +45,9 @@ All Donations are reinvested into ideas and projects. Thank you for the support!
 - Power Traces that do not cross and have the GND plane below for a good return power signal.
 - Have a specific NES Power Module for each use case (not try and pile everything into one board)
 
+# NESRGN Compantion Power Module with Component Video Output on a 3.5mm 4-Pole Jack
+![image](https://user-images.githubusercontent.com/70423454/190882469-c4c12c40-532e-456b-a76d-edfb54e9cfb6.png)
+
 
 # NES Classic with Composite Out and Two Channel Mono Sound.
 ![image](https://user-images.githubusercontent.com/70423454/189784508-f7524312-fb60-4ef9-8e2b-0ad28327b1a1.png)
@@ -56,10 +59,6 @@ All Donations are reinvested into ideas and projects. Thank you for the support!
 
 # NES RGB with Genesis 2 9 Pin Output
 ![image](https://user-images.githubusercontent.com/70423454/189784110-bcef7914-d50a-42c1-8fcf-64ba0644c83a.png)
-
-
-# NES RGB with Component Video Output on a 3.5mm 4-Pole Jack
-![image](https://user-images.githubusercontent.com/70423454/189783568-f1cf38ee-65e5-4db7-b72b-ce9a9776c198.png)
 
 
 # Full uninterrupted ground plane on the back of the board.
