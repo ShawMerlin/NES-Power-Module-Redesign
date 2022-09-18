@@ -17,6 +17,13 @@ ShawTech LLC
 
 
 All Donations are reinvested into ideas and projects. Thank you for the support!!
+
+# Goals with these new NES Power Modules
+- Full Ground Plane that is uninterrupted and is free of traces and components.
+- Power Traces that do not cross and have the GND plane below for a good return power signal.
+- Have a specific NES Power Module for each use case (not try and pile everything into one board)
+
+
 # Updates
 - 9/17/2022 - I tested the Component (Y/pB/pR) circuit with the NESRGB Board and it looked great!!  I have these new PCBs on order
 
@@ -42,11 +49,7 @@ All Donations are reinvested into ideas and projects. Thank you for the support!
 - Once verified, the open source files will be released.
 
 
-# Goals with these new NES Power Modules
-- Full Ground Plane that is uninterrupted and is free of traces and components.
-- Power Traces that do not cross and have the GND plane below for a good return power signal.
-- Have a specific NES Power Module for each use case (not try and pile everything into one board)
--
+
 
 
 # NESRGB Compantion Power Module with Component Video Output
