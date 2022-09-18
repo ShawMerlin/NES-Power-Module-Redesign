@@ -44,8 +44,10 @@ All Donations are reinvested into ideas and projects. Thank you for the support!
 - Full Ground Plane that is uninterrupted and is free of traces and components.
 - Power Traces that do not cross and have the GND plane below for a good return power signal.
 - Have a specific NES Power Module for each use case (not try and pile everything into one board)
+-
 
-# NESRGN Compantion Power Module with Component Video Output on a 3.5mm 4-Pole Jack
+
+# NESRGB Compantion Power Module with Component Video Output
 ![image](https://user-images.githubusercontent.com/70423454/190882469-c4c12c40-532e-456b-a76d-edfb54e9cfb6.png)
 
 
