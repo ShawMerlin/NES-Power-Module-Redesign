@@ -1,6 +1,6 @@
 Gerbers, BOM and POS (JLCPCB Assembly) will be available after we test our Prototype  (Ordered on 9/19/2022)
 
-##Key Features on this board.
+**Key Features on this board.**
 - Built in RGB to YPbPr "Component" circuit (the NESRGB Board is still required)
 - 3.5mm 4 Pole Jack that will output Component Signals
 - Audio Amp to help improve the sound (this has not been tested yet)
