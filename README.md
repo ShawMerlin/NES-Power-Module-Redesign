@@ -52,7 +52,7 @@ All Donations are reinvested into ideas and projects. Thank you for the support!
 
 
 
-# NESRGB Compantion Power Module with YPbPr "Component" Video Output
+# NESRGB Compantion Power Module with YPbPr "Component" Video
 ![image](https://user-images.githubusercontent.com/70423454/191241518-073bcafa-6da2-472a-a913-fb6ca4ea4a78.png)
 
 
