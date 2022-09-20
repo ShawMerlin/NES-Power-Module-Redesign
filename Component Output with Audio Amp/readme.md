@@ -7,8 +7,11 @@ Key Features on this board.
 - Seperate Ground Plane from the 5V Regulator and the RGB Traces.  3 Grounding points on the Board. 
 - Switching Voltage Regulator. 
 - Physical cut outs in the PCB board to help shield against any EMI from the regulator.
-- 2.54mm pitch 8 Pin Header that will fit a JST Connection -  https://www.amazon.com/gp/product/B096Q81JBB
+- 1.27mm pitch 8 Pin Header that will fit a JST Connection -  https://www.adafruit.com/product/4928
 - Jumper for selection of Internal Audio or External Audio (if you have your own Audio Circuit)
+
+
+![image](https://user-images.githubusercontent.com/70423454/191235242-17309a99-3815-4abe-a4a1-5d8791905b39.png)
 
 
 ![image](https://user-images.githubusercontent.com/70423454/189782807-32aa7260-0219-45c8-a589-a164d71b92af.png)
