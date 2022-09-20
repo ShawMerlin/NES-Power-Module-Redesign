@@ -1,4 +1,4 @@
-##9/19/2022 Update
+**9/19/2022 Update**
 - Version 1.8 - Increased the Ground Stitching around the Video Trace and added Ground Stitching to the Audio Trace.
 
 I have uploaded the Gerbers for this board and also a Bill of Materials and Position File.
