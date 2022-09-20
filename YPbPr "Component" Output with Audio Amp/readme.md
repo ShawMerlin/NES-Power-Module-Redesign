@@ -1,4 +1,4 @@
-Gerbers, BOM and POS (JLCPCB Assembly) will be available after we test our Prototype
+Gerbers, BOM and POS (JLCPCB Assembly) will be available after we test our Prototype  (Ordered on 9/19/2022)
 
 Key Features on this board.
 - Built in RGB to YPbPr "Component" circuit (the NESRGB Board is still required)
