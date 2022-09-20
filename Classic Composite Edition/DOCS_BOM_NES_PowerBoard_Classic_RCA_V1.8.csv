@@ -1,0 +1,26 @@
+Comment,Designator,SMD Footprints,LCSC,Mouser
+6.8uH,L1,SMD_6x6x4.5mm,C206253,
+BL8033,J7,SOT-23-6L,C160717,
+.01uF,C2,Capacitor_SMD:C_0805_2012Metric,C1710,
+22uF,C3,Capacitor_SMD:C_0805_2012Metric,C602037,
+.1uF,C4,Capacitor_SMD:C_0805_2012Metric,C49678,
+1uF,C5,Capacitor_SMD:C_0805_2012Metric,C28323,
+22uF,"C6,C7",Capacitor_SMD:C_1206_3216Metric,C12891,
+Green_LED,D2,LED_SMD:LED_0805_2012Metric,C2297,
+680R,R1,Resistor_SMD:R_0805_2012Metric,C17798,
+300R,R2,Resistor_SMD:R_0805_2012Metric,C17617,
+110R,R3,Resistor_SMD:R_0805_2012Metric,C17423,
+10K,R4,Resistor_SMD:R_0805_2012Metric,C17414,
+7.68k,R5,Resistor_SMD:R_0805_2012Metric,C30041,
+40.2k,R6,Resistor_SMD:R_0805_2012Metric,C17678,
+100K,R7,Resistor_SMD:R_0805_2012Metric,C149504,
+2SA1015,Q1,Package_TO_SOT_SMD:SOT-23,C545569,
+,,,,
+Comment,Designator,Through Hole FootPrints,LCSC,Mouser
+2200uF,C1,Capacitor_THT:CP_Radial_D12.5mm_P5.00mm,C225868,ECA-1EHG222
+220uF,C8,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,C2897445,6SEPC220M+TSS
+Power Jack,J1,"2.1mm ID, DC Power Supply Connector, 2 Pin",,PJ-037A
+Red RCA,,Right Audio - Red RCA Jack,,"RCJ-042	"
+White RCA,,Left Audio - White RCA Jack,,"RCJ-043	"
+Yellow RCA,,Video Out Yellow RCA Jack,,"RCJ-044	"
+AC->DC,,Bridge Rectifiers VR=600V IAV=2.0A,,DF206ST-G
