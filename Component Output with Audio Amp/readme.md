@@ -11,7 +11,7 @@ Key Features on this board.
 - Jumper for selection of Internal Audio or External Audio (if you have your own Audio Circuit)
 
 
-![image](https://user-images.githubusercontent.com/70423454/191235242-17309a99-3815-4abe-a4a1-5d8791905b39.png)
+![image](https://user-images.githubusercontent.com/70423454/191236545-86a25d30-b258-4dac-87f2-57eb2d7498ac.png)
 
 
 ![image](https://user-images.githubusercontent.com/70423454/189782807-32aa7260-0219-45c8-a589-a164d71b92af.png)
