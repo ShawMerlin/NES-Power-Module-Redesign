@@ -1,7 +1,7 @@
 Gerbers, BOM and POS (JLCPCB Assembly) will be available after we test our Prototype
 
 Key Features on this board.
-- Built in RGB to Component circuit (the NESRGB Board is still required)
+- Built in RGB to YPbPr "Component" circuit (the NESRGB Board is still required)
 - 3.5mm 4 Pole Jack that will output Component Signals
 - Audio Amp to help improve the sound (this has not been tested yet)
 - Seperate Ground Plane from the 5V Regulator and the RGB Traces.  3 Grounding points on the Board. 
