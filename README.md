@@ -11,12 +11,13 @@ Please link back here if this helps you with your own project.
 
 More Content Like this - www.facebook.com/GeekIslandGaming
 
-ShawTech LLC
-
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=97YFBJX4NXA8W)
 
 
 All Donations are reinvested into ideas and projects. Thank you for the support!!
+
+# Updates are now in a seperate document
+https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Updates.md
 
 # Goals with these new NES Power Modules
 - Full Ground Plane that is uninterrupted and is free of traces and components.
