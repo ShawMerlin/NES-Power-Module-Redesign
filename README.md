@@ -20,7 +20,7 @@ All Donations are reinvested into ideas and projects. Thank you for the support!
 
 https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Updates.md
 
-Special Thanks to Project Guardian
+=-=-=-Special Thanks to Project Guardian-=-=-=
 
 # Goals with these new NES Power Modules
 - Full Ground Plane that is uninterrupted and is free of traces and components.
