@@ -1,4 +1,4 @@
-# NES Vitals - Power-Module Redesign
+# NES ExtraLife - Power-Module Redesign
 Completely Redesigning the NES Power Module to Reduce Noise and EMI
 
 I had a limited run available which are now gone. I will be ordering some more.
