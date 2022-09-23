@@ -1,7 +1,9 @@
 
 # Updates
 
-- 9/22/2022 - Working on a Classic Version that uses the LDO instead of the Switching Voltage Regulator.  Lots of heat but I have some ideas on how to handle it.
+- 9/22/2022 - Working on a Classic and 'Y'Pb'Pr "Component" Version that uses the LDO instead of the Switching Voltage Regulator.  
+
+Lots of heat but I have some ideas on how to handle it.
 
 - 9/17/2022 - I tested the Component (Y/pB/pR) circuit with the NESRGB Board and it looked great!!  I have these new PCBs on order
 
