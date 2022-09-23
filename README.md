@@ -1,7 +1,5 @@
-# NES-Power-Module-Redesign
+# NES Vitals - Power-Module Redesign
 Completely Redesigning the NES Power Module to Reduce Noise and EMI
-
-This series of boards will be called the NES Vitals Power Modules.
 
 I had a limited run available which are now gone. I will be ordering some more.
 
