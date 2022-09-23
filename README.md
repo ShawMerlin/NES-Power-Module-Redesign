@@ -17,6 +17,7 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 All Donations are reinvested into ideas and projects. Thank you for the support!!
 
 **Updates are now in a seperate document**
+
 https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Updates.md
 
 # Goals with these new NES Power Modules
