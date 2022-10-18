@@ -1,6 +1,9 @@
 
 # Updates
 
+- 10/18/2022 - The YPbPr Component board has to have the 3.5mm jack changed positions.  The case doesn't quite have a low enough lip to
+ support it and I want to keept his a No-Cut Mod.  I plan on putting it up where the old Video Out use to be and will upload photo's when I have this completed.
+
 - 9/22/2022 - Working on a Classic and 'Y'Pb'Pr "Component" Version that uses the LDO instead of the Switching Voltage Regulator.  
 
   Lots of heat but I have some ideas on how to handle it.
