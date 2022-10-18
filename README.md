@@ -1,7 +1,14 @@
 # NES Revival - Power-Module Redesign
 Completely Redesigning the NES Power Module to Reduce Noise and EMI
 
-I had a limited run available which are now gone. I will be ordering some more.
+I apologize it has been a while since my last update.  It's our busy season at https://shawtechlighting.com/gallery/ and I have been swamped.
+
+There are some exciting things in the pipeline for these boards, Just finding the time has been difficult.
+
+
+I do again have about 15 boards available on Ebay, I think this will be my last run for this particular Version.
+https://www.ebay.com/itm/144772458498
+
 
 The original NES Power Module is very noisy.  The Power Traces cross eachother and the ground home path is messy.
 EMI was not a worry in 1985 but noise can impact picture and sound quality
