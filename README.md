@@ -6,8 +6,8 @@ I apologize it has been a while since my last update.  It's our busy season at h
 There are some exciting things in the pipeline for these boards, Just finding the time has been difficult.
 
 
-I do again have about 15 boards available on Ebay, I think this will be my last run for this particular Version.
-https://www.ebay.com/itm/144772458498
+I only have a few boards left, they are listed on my ebay at.
+https://www.ebay.com/itm/144884860326
 
 
 The original NES Power Module is very noisy.  The Power Traces cross eachother and the ground home path is messy.
