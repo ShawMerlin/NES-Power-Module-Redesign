@@ -1,12 +1,14 @@
 # NES Revival - Power-Module Redesign
 Completely Redesigning the NES Power Module to Reduce Noise and EMI
 
-I apologize it has been a while since my last update.  It's our busy season at https://shawtechlighting.com/gallery/ and I have been swamped.
+1/8/2022
+I have added to my designs a USB C Powered Module (This was long overdue)
+This module uses Power Delivery to get up to 3 amps of 5V Power from a USB Power Brick
+It does not need to covert down to 5V so no buck converters or LDO's needed!!
+Pictures below. Updates to come.
 
-There are some exciting things in the pipeline for these boards, Just finding the time has been difficult.
 
-
-I only have a few boards left, they are listed on my ebay at.
+I only have a original few boards left, they are listed on my ebay at.
 https://www.ebay.com/itm/144884860326
 
 
@@ -34,7 +36,11 @@ https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Updates.md
 - Power Traces that do not cross and have the GND plane below for a good return power signal.
 - Have a specific NES Power Module for each use case (not try and pile everything into one board)
 
-# NESRGB Compantion Power Module with YPbPr "Component" Video
+# NES Classic USB C Powered Module
+![image](https://user-images.githubusercontent.com/70423454/211245254-8f329055-987e-43e0-9ae4-70d465cca7cb.png)
+
+
+# NESRGB Companion Power Module with YPbPr "Component" Video
 ![image](https://user-images.githubusercontent.com/70423454/191241518-073bcafa-6da2-472a-a913-fb6ca4ea4a78.png)
 
 
