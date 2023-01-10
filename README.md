@@ -9,7 +9,7 @@ Pictures below. Updates to come.
 
 
 I only have a original few boards left, they are listed on my ebay at.
-https://www.ebay.com/itm/144884860326
+https://www.ebay.com/itm/144895089678
 
 
 The original NES Power Module is very noisy.  The Power Traces cross eachother and the ground home path is messy.
