@@ -8,7 +8,7 @@ It does not need to covert down to 5V so no buck converters or LDO's needed!!
 Pictures below. Updates to come.
 
 
-I only have a original few boards left, they are listed on my ebay at.
+I only have a few boards of the Classic RCA Boards left, they are listed on my ebay at.
 https://www.ebay.com/itm/144895089678
 
 
