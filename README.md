@@ -8,8 +8,8 @@ It does not need to covert down to 5V so no buck converters or LDO's needed!!
 Pictures below. Updates to come.
 
 
-I only have a few boards of the Classic RCA Boards left, they are listed on my ebay at.
-https://www.ebay.com/itm/144895089678
+The small batch that I had ordered has sold out.  I should have some more to give out the first part of February.
+I will always have the new USB C Powered ones available at that time pending all the testing goes well.
 
 
 The original NES Power Module is very noisy.  The Power Traces cross eachother and the ground home path is messy.
