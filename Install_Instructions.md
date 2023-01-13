@@ -1,4 +1,4 @@
-# NES-Power-Module-Installation Instrucions
+# NES-Power-Module-Installation Instructions
 
 <ins>Items Needed</ins> 
 - Soldering Iron - https://www.amazon.com/gp/product/B089SKWMPT
