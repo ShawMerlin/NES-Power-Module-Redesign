@@ -41,8 +41,8 @@ https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Updates.md
 ![image](https://user-images.githubusercontent.com/70423454/211245254-8f329055-987e-43e0-9ae4-70d465cca7cb.png)
 
 
-# NESRGB Companion Power Module with YPbPr "Component" Video
-![image](https://user-images.githubusercontent.com/70423454/191241518-073bcafa-6da2-472a-a913-fb6ca4ea4a78.png)
+# USB C Powered - NESRGB Companion Power Module with YPbPr "Component" Video
+![image](https://user-images.githubusercontent.com/70423454/212768501-70ef1946-f2a9-40f4-a448-bea2a0ba0b7f.png)
 
 
 # NES Classic with Composite Out and Two Channel Mono Sound.
