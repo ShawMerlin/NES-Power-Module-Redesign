@@ -49,12 +49,8 @@ https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Updates.md
 ![image](https://user-images.githubusercontent.com/70423454/189784508-f7524312-fb60-4ef9-8e2b-0ad28327b1a1.png)
 
 
-# NES Classic with Sound Mixing of both Audio Channels on the NES + the Expansion Audio from the cartridge.
-![image](https://user-images.githubusercontent.com/70423454/179364179-cdf058aa-fb97-4f7a-9313-9bf6ef754939.png)
-
-
 # NES RGB with Genesis 2 9 Pin Output
-![image](https://user-images.githubusercontent.com/70423454/189784110-bcef7914-d50a-42c1-8fcf-64ba0644c83a.png)
+![image](https://user-images.githubusercontent.com/70423454/216230056-1fd5f369-8b33-4f57-9c2e-a0242c5efc16.png)
 
 
 # Full uninterrupted ground plane on the back of the board.
@@ -62,12 +58,11 @@ https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Updates.md
 
 
 # An easy to solder DIY Version of the Classic Composite RCA Edition.
-![image](https://user-images.githubusercontent.com/70423454/186550171-d461cc94-1ec4-4059-8845-3939911fba0a.png)
+![image](https://user-images.githubusercontent.com/70423454/216230219-b043e5f6-b95b-4ed3-80c9-134efb59898d.png)
 
 
 # For the few that own the NES HDMI Board, this module will provide very easy solder points without the need of the LDO.
 ![image](https://user-images.githubusercontent.com/70423454/185999783-296dcafc-dfe5-4f3a-911b-82fa9e63dd2f.png)
-
 
 
 # Below is an example of the Orignal Power Module.  Notice how the power traces keep crossing eachother and other components. Folks really didn't consider EMI a lot back then and opted to just cover the entire board in a metal shoud.
