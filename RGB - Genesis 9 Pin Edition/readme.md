@@ -1,6 +1,7 @@
 Gerbers, BOM and POS (JLCPCB Assembly) will be available after testing is completed.
 
-2/1/2023 - Getting back on the horse!!  I have Version 1.9 completed and ordered.  I should be able to test within a couple of weeks.
+2/1/2023 - Getting back on the horse!!  I have Version 1.9 completed and ordered. I should be able to test within a couple of weeks.
+This new version has slide switches instead of header jumpers and I have also changed the pinout on the 7 pin connector to match the color of wires.
 
 9/12/2022 - I have made a couple of changes to the RGB Board, I have moved the 9 pin Genesis Connector closer and fixed part of the audio circuit.
 The Gerber files have been taken down until we get this new one tested.
