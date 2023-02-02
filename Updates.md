@@ -1,6 +1,16 @@
 
 # Updates
 
+
+- 2/1/2023 - Getting back on the horse!! I have NES RGB Gen2 Power Module Version 1.9 completed and ordered. I should be able to test within a couple of weeks. 
+  This new version has slide    switches instead of header jumpers and I have also changed the pinout on the 7 pin connector to match the color of wires.
+
+- 2/1/2023 - Redesigned the THT DIY Board so that it uses a LDO once again and uploaded the BOM files.  Testing the PCB is our next step.
+
+- 1/8/2022 I have added to my designs a USB C Powered Module (This was long overdue).
+  This module uses Power Delivery to get up to 3 amps of 5V Power from a USB Power Brick.
+  It does not need to coverted down to 5V so no buck converters or LDO's needed!!
+  
 - 10/18/2022 - The YPbPr Component board has to have the 3.5mm jack changed positions.  The case doesn't quite have a low enough lip to
  support it and I want to keept his a No-Cut Mod.  I plan on putting it up where the old Video Out use to be and will upload photo's when I have this completed.
 
