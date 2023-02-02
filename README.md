@@ -1,16 +1,10 @@
 # NES Revival - Power-Module Redesign
 Completely Redesigning the NES Power Module to Reduce Noise and EMI
 
-1/8/2022   
-I have added to my designs a USB C Powered Module (This was long overdue).   
-This module uses Power Delivery to get up to 3 amps of 5V Power from a USB Power Brick.   
-It does not need to covert down to 5V so no buck converters or LDO's needed!!   
-Pictures below. Updates to come.
-
+2/1/2023 - Check out the new updates here - https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Updates.md
 
 The small batch that I had ordered has sold out.  I should have some more to give out the first part of February. 
-
-I will always have the new USB C Powered ones available at that time pending all the testing goes well.
+I will also have the new USB C Powered ones available at that time pending all the testing goes well.
 
 
 The original NES Power Module is very noisy.  The Power Traces cross eachother and the ground home path is messy.
