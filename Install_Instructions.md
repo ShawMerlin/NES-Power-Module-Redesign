@@ -26,7 +26,7 @@ On the Chip side of the NES Main Board, Remove the metal shield over the Power M
 
 
 Desolder the below 5 Pins highlighted in Yellow.  Soldering Wick or a Soldering Gun should be used.
-Make sure each pin can move freely before moving on.
+Make sure each pin can move freely before moving on to the next step.
 ![image](https://user-images.githubusercontent.com/70423454/179365288-df28e6d7-2bf9-40c6-be32-d42333c60d89.png)
 
 
