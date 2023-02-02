@@ -1,7 +1,10 @@
 # NES Revival - Power-Module Redesign
 Completely Redesigning the NES Power Module to Reduce Noise and EMI
 
-2/1/2023 - Check out the new updates here - https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Updates.md
+2/1/2023 - Check out the new updates here - 
+
+
+https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Updates.md
 
 The small batch that I had ordered has sold out.  I should have some more to give out the first part of February. 
 I will also have the new USB C Powered ones available at that time pending all the testing goes well.
@@ -19,10 +22,6 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 
 
 All Donations are reinvested into ideas and projects. Thank you for the support!!
-
-**Updates are now in a seperate document**
-
-https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Updates.md
 
 =-=-=-Special Thanks to Project Guardian-=-=-=
 
