@@ -12,7 +12,7 @@ Currently, I have tested the below Anker Power Block and USB-C Cable with 2-3 am
 
 https://www.amazon.com/gp/product/B099F558S1
 
-![image](https://user-images.githubusercontent.com/70423454/217142277-8c0d61f8-99ff-49ad-b353-100ec0339b40.png)
+![image](https://user-images.githubusercontent.com/70423454/217142508-b8104a0e-d6df-483b-9b2b-cd79f72c6e8a.png)
 
 
 https://www.amazon.com/dp/B088NRLMPV
