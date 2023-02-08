@@ -6,13 +6,14 @@ We used the TUSB321RWBR IC for PD Negoations.  This will negotiate up to 3 amps 
 
 This IC also is 5 volt only.  It will not negotiate any voltage about 5 volts so your equipment will always be in safe parameters.
 
-Currently, I have tested the below Anker Power Block and USB-C Cable with 2-3 amps for several days with this board.  No Issues seen.
 
 I have added TVS ESD Protection, a 5V clamp, and a 5V Stability inductor to produce clean 5V Power no matter the quality of input power.
 
 ![image](https://user-images.githubusercontent.com/70423454/217629454-b0fea377-ea70-4ac9-a75a-1ec10e301bd8.png)
 
 ![image](https://user-images.githubusercontent.com/70423454/211245067-9edf0977-9ca4-4d2b-83af-919b6c7a3872.png)
+
+Currently, I have tested the below Anker Power Block and USB-C Cable with 2-3 amps for several days with this board.  No Issues seen.
 
 https://www.amazon.com/gp/product/B099F558S1
 
