@@ -1,13 +1,15 @@
 # NES Revival - Power-Module Redesign
 Completely Redesigning the NES Power Module to Reduce Noise and EMI
 
-2/1/2023 - Check out the new updates here - 
+I have more of the Classic RCA Boards available on my Ebay - https://www.ebay.com/itm/144936529192
+
+I will also have the new USB C Powered prototype available if anyone is interested.  Just sent me a message.
+
+
+2/8/2023 - Check out the new updates here - 
 
 
 https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Updates.md
-
-I have more of the Classic RCA Boards available on my Ebay - https://www.ebay.com/itm/144936529192
-I will also have the new USB C Powered prototype available if anyone is interested.  Just sent me a message.
 
 
 The original NES Power Module is very noisy.  The Power Traces cross eachother and the ground home path is messy.
