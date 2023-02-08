@@ -10,6 +10,12 @@ This IC also is 5 volt only.  It will not negotiate any voltage about 5 volts so
 
 Currently, I have tested the below Anker Power Block and USB-C Cable with 2-3 amps for several days with this board.  No Issues seen.
 
+I have added TVS ESD Protection, a 5V clamp, and a 5V Stability inductor to produce clean 5V Power no matter the quality of input power.
+
+![image](https://user-images.githubusercontent.com/70423454/217629454-b0fea377-ea70-4ac9-a75a-1ec10e301bd8.png)
+
+
+
 https://www.amazon.com/gp/product/B099F558S1
 
 ![image](https://user-images.githubusercontent.com/70423454/217142508-b8104a0e-d6df-483b-9b2b-cd79f72c6e8a.png)
