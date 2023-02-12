@@ -6,7 +6,7 @@ I have more of the Classic RCA Boards available on my Ebay - https://www.ebay.co
 I will also have the new USB C Powered prototype available if anyone is interested.  Just sent me a message.
 
 
-2/8/2023 - Check out the new updates here - 
+2/12/2023 - Check out the new updates here - 
 
 
 https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Updates.md
