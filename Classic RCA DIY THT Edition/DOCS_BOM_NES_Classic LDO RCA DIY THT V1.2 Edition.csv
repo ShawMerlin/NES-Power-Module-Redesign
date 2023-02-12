@@ -5,7 +5,7 @@ C3,1,FG16X7R2A334KNT06,.33uF,Ceramic Capacitors MLCC - 0.33uF - 10% - X7R,$0.56 
 C4,1,FG16C0G1H104JNT06,100nF,Ceramic Capacitors MLCC -  0.1uF - 5% - C0G (NP0),$0.75 ,https://www.mouser.com/ProductDetail/TDK/FG16C0G1H104JNT06?qs=qf2ddTMq67VWU%252BzSLgM9lA%3D%3D
 C8,1,A750EK227M1CAAE016,220uF,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,$0.58 ,https://www.mouser.com/ProductDetail/KEMET/A750EK227M1CAAE016?qs=M6jHmRuQorX%252BbkmlO9snxA%3D%3D
 D1,1,GBL410_T0_00601,4A,Bridge Rectifiers 4A/1000V low vf bridge,$0.70 ,https://www.mouser.com/ProductDetail/Panjit/GBL410_T0_00601?qs=vvQtp7zwQdOZWOPgfhTt1w%3D%3D
-D2,1,-,-,3mm Through Hole LED - Any Color,$0.06 ,https://www.amazon.com/EDGELEC-100pcs-Resistors-Included-Emitting/dp/B077XDN49X
+D2,1,-,-,5mm Through Hole LED - Any Color,$0.06 ,https://www.amazon.com/EDGELEC-100pcs-Resistors-Included-Emitting/dp/B077XDN49X
 J1,1,Power Jack,PJ-037A,"2.1mm ID, DC Power Supply Connector, 2 Pin",$0.68 ,https://www.mouser.com/ProductDetail/CUI-Devices/PJ-037A?qs=WyjlAZoYn53bdNRXfildEA%3D%3D
 J3,1,White RCA,"RCJ-043	",Left Audio - White RCA Jack,$1.64 ,https://www.mouser.com/ProductDetail/CUI-Devices/RCJ-043?qs=WyjlAZoYn518Y1bnzBVySQ%3D%3D
 J4,1,Yellow RCA,"RCJ-044	",Video Out Yellow RCA Jack,$1.64 ,https://www.mouser.com/ProductDetail/CUI-Devices/RCJ-044?qs=WyjlAZoYn50SPBJvOy7ojw%3D%3D
