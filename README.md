@@ -37,8 +37,7 @@ All Donations are reinvested into ideas and projects. Thank you for the support!
 
 
 # USB C Powered - NESRGB Companion Power Module with YPbPr "Component" Video
-![image](https://user-images.githubusercontent.com/70423454/212768501-70ef1946-f2a9-40f4-a448-bea2a0ba0b7f.png)
-
+![image](https://user-images.githubusercontent.com/70423454/218328818-30999115-1f72-4198-8f75-4a5cf8771698.png)
 
 # NES Classic with Composite Out and Two Channel Mono Sound.
 ![image](https://user-images.githubusercontent.com/70423454/189784508-f7524312-fb60-4ef9-8e2b-0ad28327b1a1.png)
