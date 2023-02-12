@@ -1,5 +1,9 @@
 
 # Updates
+- 2/12/2023 - The DIY Board has arrived and it has been assembled. Testing will finish up tonight and I will release the Kicad/Gerber files once testing is done.<br>
+  The Vertical USB C proved to not be the most solid or stable when I was stress testing it with twisting and plugging in the cable. This has been replaced. <br>
+  The 'Y'Pb'Pr Component output board is working but is oversaturated on the blue channel.  More research is being done into this. <br>
+  NES RGB Gen2 Power Module is currently in-transit. I will be testing this as soon as it arrives.
 
 
 - 2/1/2023 - Getting back on the horse!! I have NES RGB Gen2 Power Module Version 1.9 completed and ordered. I should be able to test within a couple of weeks. 
