@@ -33,8 +33,7 @@ All Donations are reinvested into ideas and projects. Thank you for the support!
 - Have a specific NES Power Module for each use case (not try and pile everything into one board)
 
 # NES Classic USB C Powered Module
-![image](https://user-images.githubusercontent.com/70423454/211245254-8f329055-987e-43e0-9ae4-70d465cca7cb.png)
-
+![image](https://user-images.githubusercontent.com/70423454/218329070-949a418e-abe6-4502-98c1-52825bb83cc2.png)
 
 # USB C Powered - NESRGB Companion Power Module with YPbPr "Component" Video
 ![image](https://user-images.githubusercontent.com/70423454/218328818-30999115-1f72-4198-8f75-4a5cf8771698.png)
