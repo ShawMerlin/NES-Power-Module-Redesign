@@ -21,3 +21,15 @@ Key Features on this board. <br>
 
 
 ![image](https://user-images.githubusercontent.com/70423454/218863113-a1dd5af9-ebe8-4bd0-baba-259bd90e63b2.png)
+
+![image](https://user-images.githubusercontent.com/70423454/218920131-dc49eb1d-dcf1-4ee1-a7af-7ca0c617cf1e.png)
+
+![image](https://user-images.githubusercontent.com/70423454/218920200-51cc5b2e-24f7-41b8-8623-422e9ee802cf.png)
+
+![image](https://user-images.githubusercontent.com/70423454/218920315-61a6ed7b-308e-4c10-8fe1-b9cb5a5977fb.png)
+
+![image](https://user-images.githubusercontent.com/70423454/218920410-8a4f07de-f8c2-4d8f-905d-61d968d07b9a.png)
+
+![image](https://user-images.githubusercontent.com/70423454/218920476-10da06f9-c76c-471b-81fd-98b1ce956856.png)
+
+![image](https://user-images.githubusercontent.com/70423454/218920540-a46804dd-c26c-469e-8a60-57337d13285f.png)
