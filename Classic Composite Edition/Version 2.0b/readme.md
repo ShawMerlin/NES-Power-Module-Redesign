@@ -1,7 +1,7 @@
 # NES Revival Classic Power Board RCA Edition 2.0
 
 Check out the Virtual BOM and Placement of these components on this Board.
-[Link](https://htmlpreview.github.io/?https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Classic%20Composite%20Edition/Version%202.0b/IBOM_NES_PowerBoard_Classic_RCA_V2.0b.html) <br?
+[Link](https://htmlpreview.github.io/?https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Classic%20Composite%20Edition/Version%202.0b/IBOM_NES_PowerBoard_Classic_RCA_V2.0b.html) <br>
 
 The below improvements have been made to Version 2.0v over our last release of 1.8v. <br>
 
