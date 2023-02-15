@@ -1,6 +1,6 @@
 
 # Updates
-- 2/14/2023 - DIY Boards have tested good.  I updated a footprint and added some warning graphics to the board.  Gerbers files have been released. <br>
+- 2/14/2023 - DIY Boards have tested good with a 2 amp load for 24 hours.  I updated a footprint and added some warning graphics to the board.  Gerbers files have been released. <br>
 - 2/12/2023 - The DIY Board has arrived and it has been assembled. Testing will finish up tonight and I will release the Kicad/Gerber files once testing is done .<br>
 - 2/12/2023 - The Vertical USB C proved to not be the most solid or stable when I was stress testing it with twisting and plugging in the cable. This has been replaced. <br>
 - 2/12/2023 - The 'Y'Pb'Pr Component output board is working but is oversaturated on the blue channel.  More research is being done. <br>
