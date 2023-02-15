@@ -2,7 +2,8 @@
 
 The below improvements have been made to Version 2.0v over our last release of 1.8v.
 
-2/14/2023 - Upgraded the Full Bridge Rectifier to one that can do 5 Amps.  The old version was getting pretty warm. <br>
+Updates 2/14/2023 <br>
+          - Upgraded the Full Bridge Rectifier to one that can do 5 Amps.  The old version was getting pretty warm. <br>
           - Beefier DC Input Jack that can handle 5 Amps (old one could only do 2.5 amps) <br>
           - This Board has been tested pulling 3 Amps max without issue. <br>
           - Ground stitching over audio traces to help prevent any static and noise that would be coming from the Buck Converter. <br>
