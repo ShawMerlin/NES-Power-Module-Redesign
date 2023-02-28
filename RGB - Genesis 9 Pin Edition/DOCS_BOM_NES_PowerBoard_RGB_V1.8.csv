@@ -28,7 +28,8 @@ Header,"J10,J11",2.54mm Header Pins, ,10129378-920003BLF,
 Jumper,"J10,J11",2P Jumper,,"881545-1	",
 ,,,,,
 Comment,Designator,Optional,LCSC,Mouser,Amazon
-8 Pin JST with cable for connecting to NESRGB,J8,,,,https://www.amazon.com/gp/product/B096Q81JBB
+7 Pin JST ZH cable for connecting to NESRGB,J8,,,,https://www.aliexpress.us/item/2251832866824604.html
+7 Pin JST ZH Connector for connecting to NESRGB,J8,,,,https://www.aliexpress.us/item/3256802776860690.html
 3 Pin JST with cable for connecting to Palette,J12,,,,https://www.amazon.com/2-54MM-Female-Single-Connector-300mm/dp/B01IZAING4
 Green_LED,D2,LED_SMD:LED_0805_2012Metric,C2297,,
 680R,R1,Resistor_SMD:R_0805_2012Metric,C17798,,
