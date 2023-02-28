@@ -1,5 +1,8 @@
 Gerbers, BOM and POS (JLCPCB Assembly) will be available after testing is completed.
 
+2/28/2023 - Boards have arrived and are assemlbed.  I couldn't find my Gen2 9 Pin to SCART cable so I had to order a new one.  <br>
+It sohuld arrive today and after testing is complete.  All files will be released on this github. <br>
+
 2/1/2023 - Getting back on the horse!!  I have Version 1.9 completed and ordered. I should be able to test within a couple of weeks.
 This new version has slide switches instead of header jumpers and I have also changed the pinout on the 7 pin connector to match the color of wires.
 
