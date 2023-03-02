@@ -43,8 +43,7 @@ All Donations are reinvested into ideas and projects. Thank you for the support!
 
 
 # NES RGB with Genesis 2 9 Pin Output
-![image](https://user-images.githubusercontent.com/70423454/216230056-1fd5f369-8b33-4f57-9c2e-a0242c5efc16.png)
-
+![image](https://user-images.githubusercontent.com/70423454/222492542-76702977-732b-44fb-bf1c-827be4a234ed.png)
 
 # Full uninterrupted ground plane on the back of the board.
 ![image](https://user-images.githubusercontent.com/70423454/179363800-cb818a45-c4a4-4a72-b937-716b4586f864.png)
