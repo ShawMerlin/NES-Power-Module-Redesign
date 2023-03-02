@@ -39,7 +39,7 @@ All Donations are reinvested into ideas and projects. Thank you for the support!
 ![image](https://user-images.githubusercontent.com/70423454/222493693-9a788cbc-8d9e-464c-8e58-fef3778fa3f3.png)
 
 # NES Classic with Composite Out and Two Channel Mono Sound.
-![image](https://user-images.githubusercontent.com/70423454/222495025-914cc8a2-801a-4132-92e9-d25a549274e9.png)
+![image](https://user-images.githubusercontent.com/70423454/222495383-a3cf528f-f45c-4dce-8eab-32bfaa3d9db7.png)
 
 # NES RGB with Genesis 2 9 Pin Output
 ![image](https://user-images.githubusercontent.com/70423454/222492542-76702977-732b-44fb-bf1c-827be4a234ed.png)
