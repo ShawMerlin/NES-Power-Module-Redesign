@@ -22,7 +22,6 @@ Key Features on this board.
 - Seperate Ground Plane from the 5V Regulator and the RGB Traces.  2 Grounding points on the Board. 
 - Switching Voltage Regulator. 
 - Physical cut outs in the PCB board to help shield against any EMI from the regulator.
-- 1.5mm pitch 7 Pin Header that will fit a JST Connection - https://www.aliexpress.us/item/2251832866824604.html
 - Switch for selection of Internal Audio or External Audio (if you have your own Audio Circuit)
 - Switch for Selection of the Multi-Function RCA Jack to be Left (mono Audio) or Composite from the RGB Board.
 - 3 Way Side Switch that can be wired into the Palette Selection on the RGB Board - 
