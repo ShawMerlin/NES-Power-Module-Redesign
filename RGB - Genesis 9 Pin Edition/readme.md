@@ -1,6 +1,6 @@
 Gerbers, BOM and POS (JLCPCB Assembly) will be available after testing is completed.
 
-3/2/2023 - Testing is going good.  I am sending engineering samples to various testers in order to get feedback. <br> <br>
+3/2/2023 - Testing is going good.  I am sending engineering samples to various testers in order to get feedback. <br>
 
 Final Revision for V2.0 that brings some quality of life updates. <br>
 - Moved the Optional Power LED to a more central location.  <br>
