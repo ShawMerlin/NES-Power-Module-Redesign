@@ -1,7 +1,8 @@
 # NES Revival - Power-Module Redesign
 Completely Redesigning the NES Power Module to Reduce Noise and EMI
 
-I have more of the Classic RCA Boards available on my Ebay - https://www.ebay.com/itm/144936529192
+I have more of the Classic RCA Boards available on my Ebay - https://www.ebay.com/itm/144936529192 <br>
+Project Guardian is a Design Partner, he has these available for Canada/Europe. - https://www.ebay.ca/itm/175646079411 <br> <br>
 
 I will also have the new USB C Powered prototype available if anyone is interested.  Just sent me a message.
 
