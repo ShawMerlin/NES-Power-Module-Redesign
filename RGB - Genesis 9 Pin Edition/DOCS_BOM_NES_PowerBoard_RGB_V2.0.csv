@@ -18,7 +18,7 @@ Green_LED,D2,LED_SMD:LED_0805_2012Metric,C2297,,Optional
 2.2K,R1,Resistor_SMD:R_0805_2012Metric,C17520,,Optional
 ,,,,,
 Comment,Designator,Through Hole FootPrints,LCSC,Mouser,
-2200uF,C1,Capacitor_THT:CP_Radial_D12.5mm_P5.00mm,,ECA-1EHG222,
+2200uF,C1,Capacitor_THT:CP_Radial_D12.5mm_P5.00mm,,UVZ1E222MHD,
 Power Jack,J1,"2.1mm ID, DC Power Supply Connector, 2 Pin", ,PJ-037A,
 Palette Switch,SW1,, ,EG2319,
 9 Pin Gen2 Connector,J5,9 Pin Gen2 Connector, ,"MD-90SM	",
