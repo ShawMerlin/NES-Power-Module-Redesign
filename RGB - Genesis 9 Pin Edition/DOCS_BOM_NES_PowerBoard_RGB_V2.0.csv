@@ -24,7 +24,7 @@ Palette Switch,SW1,, ,EG2319,
 9 Pin Gen2 Connector,J5,9 Pin Gen2 Connector, ,"MD-90SM	",
 Red RCA,J5,Right Audio - Red RCA Jack, ,"RCJ-042	",
 White RCA (If using Dual Mono),J3,Left Audio - White RCA Jack, ,"RCJ-043	",*J3 can be either White or Yellow depending on how you want to use this port
-Yellow RCA (If using Componsite),J3,Video Out Yellow RCA Jack, ,"RCJ-044	",
+Yellow RCA (If using Componsite),J3,Video Out Yellow RCA Jack, ,"RCJ-044	",*J3 can be either White or Yellow depending on how you want to use this port
 Slide Switch, J10,THT,,OS102011MS2QN1,
 Right Angle Slide Switch,J11,THT,,OS102011MA1QN1,
 JST PH Cable/Connectors,J8,,,,https://www.amazon.com/gp/product/B096QG96J4
