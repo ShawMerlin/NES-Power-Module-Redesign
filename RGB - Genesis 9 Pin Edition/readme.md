@@ -9,14 +9,6 @@ Final Revision for V2.0 that brings some quality of life updates. <br>
 - Gen2 Audio Output now is controlled by the Ext/Int Audio Switch. <br>
 - Rotated the Palette Switch outputs for easier access. <br> <br>
 
-2/28/2023 - Boards have arrived and are assembled.  I couldn't find my Gen2 9 Pin to SCART cable so I had to order a new one.  <br>
-It sohuld arrive today and after testing is complete.  All files will be released on this github. <br>
-
-2/1/2023 - Getting back on the horse!!  I have Version 1.9 completed and ordered. I should be able to test within a couple of weeks.
-This new version has slide switches instead of header jumpers and I have also changed the pinout on the 7 pin connector to match the color of wires.
-
-9/12/2022 - I have made a couple of changes to the RGB Board, I have moved the 9 pin Genesis Connector closer and fixed part of the audio circuit.
-The Gerber files have been taken down until we get this new one tested.
 
 Key Features on this board.
 - Seperate Ground Plane from the 5V Regulator and the RGB Traces.  2 Grounding points on the Board. 
@@ -33,3 +25,14 @@ Key Features on this board.
 
 
 ![image](https://user-images.githubusercontent.com/70423454/186765197-ad553ddd-35f1-48db-b001-a405b71ebd25.png)
+
+Older History <br> <Br>
+
+2/28/2023 - Boards have arrived and are assembled.  I couldn't find my Gen2 9 Pin to SCART cable so I had to order a new one.  <br>
+It sohuld arrive today and after testing is complete.  All files will be released on this github. <br>
+
+2/1/2023 - Getting back on the horse!!  I have Version 1.9 completed and ordered. I should be able to test within a couple of weeks.
+This new version has slide switches instead of header jumpers and I have also changed the pinout on the 7 pin connector to match the color of wires.
+
+9/12/2022 - I have made a couple of changes to the RGB Board, I have moved the 9 pin Genesis Connector closer and fixed part of the audio circuit.
+The Gerber files have been taken down until we get this new one tested.
