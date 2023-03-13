@@ -25,7 +25,7 @@ Red RCA,J5,Right Audio - Red RCA Jack, ,"RCJ-042	",
 White RCA (If using Dual Mono),J3,Left Audio - White RCA Jack, ,"RCJ-043	",*J3 can be either White or Yellow depending on how you want to use this port
 Yellow RCA (If using Componsite),J3,Video Out Yellow RCA Jack, ,"RCJ-044	",
 Header,"J10,J11",2.54mm Header Pins, ,10129378-920003BLF,
-Jumper,"J10,J11",2P Jumper,,"881545-1	"
+Jumper,"J10,J11",2P Jumper,,"881545-1	",
 ,,,,,
 Comment,Designator,Optional,LCSC,Mouser,Amazon
 JST PH Cable/Connectors,J8,,,,https://www.amazon.com/gp/product/B096QG96J4
