@@ -1,4 +1,4 @@
-This awesome board will connect a RGBNES through the existing A/V output locations as the original NES.  This will allow for a complete no-cut Mod. <Br> <Br>
+This awesome board will connect a RGBNES through the existing A/V output locations.  This will allow for a complete no-cut Mod. <Br> <Br>
 
 1. This is the Multi-Out Jack.  It can output either Video or Audio depending on how the switch below is set. <Br>
     - The Colors don't matter as much but having Yellow for Video or White for Audio will help with confusion. <Br>
