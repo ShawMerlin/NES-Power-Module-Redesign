@@ -25,10 +25,8 @@ White RCA (If using Dual Mono),J3,Left Audio - White RCA Jack, ,"RCJ-043	",*J3 c
 Yellow RCA (If using Componsite),J3,Video Out Yellow RCA Jack, ,"RCJ-044	",
 Slide Switch, J10,THT,,OS102011MS2QN1,
 Right Angle Slide Switch,J11,THT,,OS102011MA1QN1,
-,,,,,
-Comment,Designator,Optional,LCSC,Mouser,Amazon
 JST PH Cable/Connectors,J8,,,,https://www.amazon.com/gp/product/B096QG96J4
 Optional Rigth Angle JST PH Connector,J8,,,,https://www.amazon.com/gp/product/B0BM492MMF
 3 Pin JST with cable for connecting to Palette,J12,,,,https://www.amazon.com/2-54MM-Female-Single-Connector-300mm/dp/B01IZAING4
 Green_LED,D2,LED_SMD:LED_0805_2012Metric,C2297,,
-680R,R1,Resistor_SMD:R_0805_2012Metric,C17798,,
+2.2K,R1,Resistor_SMD:R_0805_2012Metric,C17520,,
