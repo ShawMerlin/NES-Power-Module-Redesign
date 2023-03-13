@@ -14,6 +14,8 @@ BL8033,J7,SOT-23-6L,C160717,,
 100K,R7,Resistor_SMD:R_0805_2012Metric,C149504,,
 470,R8,Resistor_SMD:R_0805_2012Metric,C17710,,
 TTR8MF,D1,TTF,C712546,,Full Bridge Rectifier
+Green_LED,D2,LED_SMD:LED_0805_2012Metric,C2297,Optional,
+2.2K,R1,Resistor_SMD:R_0805_2012Metric,C17520,Optional,
 ,,,,,
 Comment,Designator,Through Hole FootPrints,LCSC,Mouser,
 2200uF,C1,Capacitor_THT:CP_Radial_D12.5mm_P5.00mm,,ECA-1EHG222,
@@ -28,5 +30,4 @@ Right Angle Slide Switch,J11,THT,,OS102011MA1QN1,
 JST PH Cable/Connectors,J8,,,,https://www.amazon.com/gp/product/B096QG96J4
 Optional Rigth Angle JST PH Connector,J8,,,,https://www.amazon.com/gp/product/B0BM492MMF
 3 Pin JST with cable for connecting to Palette,J12,,,,https://www.amazon.com/2-54MM-Female-Single-Connector-300mm/dp/B01IZAING4
-Green_LED,D2,LED_SMD:LED_0805_2012Metric,C2297,,
-2.2K,R1,Resistor_SMD:R_0805_2012Metric,C17520,,
+
