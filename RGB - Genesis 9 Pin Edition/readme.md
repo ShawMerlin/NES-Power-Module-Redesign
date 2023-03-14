@@ -18,7 +18,7 @@ Key Features on this board.
 Click here for a list of the features this board offers - [Link](https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/RGB%20-%20Genesis%209%20Pin%20Edition/Features%20and%20Components.md)
 
 
-Click here for Insturctions on how to install this Power Module - [Link](https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Install_Instructions.md)
+Click here for Instructions on how to install this Power Module - [Link](https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Install_Instructions.md)
 
 ![image](https://user-images.githubusercontent.com/70423454/222490935-0a6bae29-9fde-409d-aaa8-4821d209c6cb.png)
 
