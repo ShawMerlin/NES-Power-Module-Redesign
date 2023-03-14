@@ -20,8 +20,6 @@ Key Features on this board.
 ![image](https://user-images.githubusercontent.com/70423454/216229176-2274718d-cc2f-489f-aa68-324682cbb03c.png)
 
 
-![image](https://user-images.githubusercontent.com/70423454/186765197-ad553ddd-35f1-48db-b001-a405b71ebd25.png)
-
 <br> <br>
 Older History <br>
 
