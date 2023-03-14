@@ -3,14 +3,7 @@
 
 3/13/2023
 Gerbers, BOM and POS (JLCPCB Assembly) have been released and are on this github page. <br>
-3/2/2023 - Testing is going good.  I am sending engineering samples to various testers in order to get feedback. <br> <br>
 
-Final Revision for V2.0 that brings some quality of life updates. <br>
-- Moved the Optional Power LED to a more central location.  <br>
-- Changed the Pitch from JST XH 1.5mm to JST PH 2.0mm to make it a lot easier to solder without bridges.  <br>
-- Rotated JST Connector so now a right angle one can be used.  <br>
-- Gen2 Audio Output now is controlled by the Ext/Int Audio Switch. <br>
-- Rotated the Palette Switch outputs for easier access. <br> <br>
 
 
 Key Features on this board.
@@ -29,7 +22,17 @@ Key Features on this board.
 
 ![image](https://user-images.githubusercontent.com/70423454/186765197-ad553ddd-35f1-48db-b001-a405b71ebd25.png)
 
-Older History <br> <Br>
+<br> <br>
+Older History <br>
+
+3/2/2023 - Testing is going good.  I am sending engineering samples to various testers in order to get feedback. <br> <br>
+
+Final Revision for V2.0 that brings some quality of life updates. <br>
+- Moved the Optional Power LED to a more central location.  <br>
+- Changed the Pitch from JST XH 1.5mm to JST PH 2.0mm to make it a lot easier to solder without bridges.  <br>
+- Rotated JST Connector so now a right angle one can be used.  <br>
+- Gen2 Audio Output now is controlled by the Ext/Int Audio Switch. <br>
+- Rotated the Palette Switch outputs for easier access. <br> <br>
 
 2/28/2023 - Boards have arrived and are assembled.  I couldn't find my Gen2 9 Pin to SCART cable so I had to order a new one.  <br>
 It sohuld arrive today and after testing is complete.  All files will be released on this github. <br>
