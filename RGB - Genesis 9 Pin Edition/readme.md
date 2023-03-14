@@ -14,8 +14,13 @@ Key Features on this board.
 - Switch for Selection of the Multi-Function RCA Jack to be Left (mono Audio) or Composite from the RGB Board.
 - 3 Way Side Switch that can be wired into the Palette Selection on the RGB Board - 
 
-![image](https://user-images.githubusercontent.com/70423454/222490935-0a6bae29-9fde-409d-aaa8-4821d209c6cb.png)
 
+Click here for a list of the features this board offers - [Link](https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/RGB%20-%20Genesis%209%20Pin%20Edition/Features%20and%20Components.md)
+
+
+Click here for Insturctions on how to install this Power Module - [Link](https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Install_Instructions.md)
+
+![image](https://user-images.githubusercontent.com/70423454/222490935-0a6bae29-9fde-409d-aaa8-4821d209c6cb.png)
 
 ![image](https://user-images.githubusercontent.com/70423454/216229176-2274718d-cc2f-489f-aa68-324682cbb03c.png)
 
