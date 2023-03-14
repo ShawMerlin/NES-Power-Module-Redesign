@@ -1,8 +1,8 @@
 # NES Revival RGBNES "Companion" Power Module.   <br>
 (RGBNES Required for this No Cut Mod Board) <br>
 
-Gerbers, BOM and POS (JLCPCB Assembly) will be available after testing is completed. <br>
-3/13/2023 - We are ready to release all files for this board.  Should be done within the next few days <br>
+3/13/2023
+Gerbers, BOM and POS (JLCPCB Assembly) have been released and are on this github page. <br>
 3/2/2023 - Testing is going good.  I am sending engineering samples to various testers in order to get feedback. <br> <br>
 
 Final Revision for V2.0 that brings some quality of life updates. <br>
