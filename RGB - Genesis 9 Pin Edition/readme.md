@@ -8,7 +8,7 @@ Gerbers, BOM and POS (JLCPCB Assembly) have been released and are on this github
 
 Key Features on this board.
 - Seperate Ground Plane from the 5V Regulator and the RGB Traces.  2 Grounding points on the Board. 
-- Switching Voltage Regulator. 
+- Switching Voltage Regulator.  This outputs a lot less heat and a stable 5V Supply.
 - Physical cut outs in the PCB board to help shield against any EMI from the regulator.
 - Switch for selection of Internal Audio or External Audio (if you have your own Audio Circuit)
 - Switch for Selection of the Multi-Function RCA Jack to be Left (mono Audio) or Composite from the RGB Board.
