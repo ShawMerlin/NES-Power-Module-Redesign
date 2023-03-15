@@ -1,7 +1,7 @@
 # NES Revival - Power-Module Redesign
 Completely Redesigning the NES Power Module to Reduce Noise and EMI
 
-I have some of these boards available on my eBay. All proceeds go into these projects as this is not a buisness.  <br>
+I have some of these boards available on my eBay. All proceeds go back into these projects as this is not a buisness.  <br>
 Classic RCA Boards - https://www.ebay.com/itm/144936529192 <br>
 RGB "Companion" Boards - https://www.ebay.com/itm/144989112801 <br>
 
