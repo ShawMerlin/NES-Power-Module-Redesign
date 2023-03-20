@@ -1,10 +1,10 @@
 This awesome board will connect a RGBNES through the existing A/V output locations.  This will allow for a complete no-cut Mod. <Br> <Br>
 
 ## Hookup Guide <Br>
-![image](https://user-images.githubusercontent.com/70423454/225483436-9f7ed6ad-3bf9-48bf-8580-3a95e998caf3.png)
-
+![NES Revival RGB Companion Board Hookup Instructions](https://user-images.githubusercontent.com/70423454/226400323-90d30994-2164-44d4-bc20-58dbcec399f6.jpg)
     
 ## Legend   <Br>
+
 1. This is the Multi-Out Jack.  It can output either Video or Audio depending on how the switch below is set. <Br>
     - The Colors don't matter as much but having Yellow for Video or White for Audio will help with confusion. <Br>
 2. Having the switch selected left will output Audio on the Multi-Out Jack.  Having it Right will output Componsite Video. <Br>
