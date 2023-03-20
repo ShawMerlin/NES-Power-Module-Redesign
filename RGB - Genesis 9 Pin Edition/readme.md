@@ -13,8 +13,8 @@ Key Features on this board.
 - Switch for selection of Internal Audio or External Audio (if you have your own Audio Circuit)
 - Switch for Selection of the Multi-Function RCA Jack to be Left (mono Audio) or Composite from the RGB Board.
 - 3 Way Side Switch that can be wired into the Palette Selection on the RGB Board - 
-- Gen2 Output is compatible with the HDRetrovision Cable, OSSC and the Retrotink.   
-- It will work with a Gen2 to SCART adapter but that cable has 75 ohm resistors that will dim the picture slightly.  Just be aware.
+- Gen2 Output is compatible with the Scart Adapters, HDRetrovision Cable, OSSC and the Retrotink.  
+- If using a Gen2 to SCART cable, There different pads to hook the RGB output on the RGBNES to have the best picture.
 
 
 Click here for a list of the features this board offers - [Link](https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/RGB%20-%20Genesis%209%20Pin%20Edition/Features%20and%20Components.md)
