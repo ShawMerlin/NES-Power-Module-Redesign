@@ -22,6 +22,10 @@ Click here for a list of the features this board offers - [Link](https://github.
 
 Click here for Instructions on how to install this Power Module - [Link](https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Install_Instructions.md)
 
+Shoutout to Long Island Retro Gaming for the screenshot!! - https://www.youtube.com/@LIRetroGaming
+![image](https://user-images.githubusercontent.com/70423454/226394506-f0109706-81cb-4232-8296-21bb947b9209.png)
+
+
 ![image](https://user-images.githubusercontent.com/70423454/222490935-0a6bae29-9fde-409d-aaa8-4821d209c6cb.png)
 
 ![image](https://user-images.githubusercontent.com/70423454/216229176-2274718d-cc2f-489f-aa68-324682cbb03c.png)
