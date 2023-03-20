@@ -1,7 +1,7 @@
 This awesome board will connect a RGBNES through the existing A/V output locations.  This will allow for a complete no-cut Mod. <Br> <Br>
 
 ## Hookup Guide (Click the pictures to enlarge them) <Br>
-![NES Revival RGB Companion Board Hookup Instructions2](https://user-images.githubusercontent.com/70423454/226427790-757f13a8-a227-4c1c-8ff4-0156408d3252.jpg)
+![NES Revival RGB Companion Board Hookup Instructions2](https://user-images.githubusercontent.com/70423454/226429439-8cf2be0d-9238-4e01-9f59-5d9efc5042df.jpg)
 
 
 ## Legend   <Br>
