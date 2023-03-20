@@ -34,7 +34,7 @@ Shoutout to Long Island Retro Gaming for the screenshot!! - https://www.youtube.
 <br> <br>
 Update History <br>
 
-3/20/2023 - Feedback from testers has been excellent.  I have received great feedback which is being done in the next revision.  <br>
+3/20/2023 - Feedback from testers has been excellent.  I have received great feedback which is being done in the next revision.  <br>  <br>
 Revisions for V2.1
 - Removed the ability to use the multifuction port as an Audio Port.  It is now Video Componsite Only.  <br>
 - Added the internal Composite circuitry back to the Power Board and made the seldctor switch, Int Video and Ext Video.  <br>
