@@ -2,7 +2,7 @@
 Completely Redesigning the NES Power Module to Reduce Noise and EMI
 
 I have some of these boards available on my eBay. All proceeds go back into these projects as this is not a buisness.  <br>
-Classic RCA Boards - https://www.ebay.com/itm/144936529192 <br>
+Classic RCA Boards - I am currently out of stock.  Hope to have more by end of the March.  <br>
 RGB "Companion" Boards - https://www.ebay.com/itm/144994869413 (These won't ship until March 22nd)<br>
 
 Project Guardian is a Design Partner, he has these available for Canada/Europe. - https://www.ebay.ca/itm/175646079411 <br>
