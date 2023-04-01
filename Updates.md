@@ -1,10 +1,10 @@
 
 # Updates
-- 3/31/2023 - New RCA Classic Modules have been tested and are working great.
--     Features a 1.9A fuse to help protect the circuit and main NES Board, input inductor, Diode Rectifier and more filtering capacitors
-- 3/13/2023 - The NES NESRGB "Companion" Power Module is completed and tested.  Files released under this github.
+- 3/31/2023 - New RCA Classic Modules have been tested and are working great. <br>
+Features a 1.9A fuse to help protect the circuit and main NES Board, input inductor, Diode Rectifier and more filtering capacitors <br>
+- 3/13/2023 - The NES NESRGB "Companion" Power Module is completed and tested.  Files released under this github. <br>
 - 2/14/2023 - DIY Boards have tested good with a 2 amp load for 24 hours.  I updated a footprint and added some warning graphics to the board.  Gerbers files have been released. <br>
-- 2/12/2023 - The DIY Board has arrived and it has been assembled. Testing will finish up tonight and I will release the Kicad/Gerber files once testing is done .<br>
+- 2/12/2023 - The DIY Board has arrived and it has been assembled. Testing will finish up tonight and I will release the Kicad/Gerber files once testing is done. <br>
 - 2/12/2023 - The Vertical USB C proved to not be the most solid or stable when I was stress testing it with twisting and plugging in the cable. This has been replaced. <br>
 - 2/12/2023 - The 'Y'Pb'Pr Component output board is working but is oversaturated on the blue channel.  More research is being done. <br>
 - 2/12/2023 - NES RGB Gen2 Power Module is currently in-transit. I will be testing this as soon as it arrives.
