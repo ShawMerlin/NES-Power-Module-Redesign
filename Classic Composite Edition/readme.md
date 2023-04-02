@@ -1,3 +1,13 @@
+**2/14/2023 2.1 Update**
+- Create a Full Bridge Rectifier out of SMC Diodes for better heat dissapation into the PCB Board.
+- Changed the 6.8uH Inductor to a 10uH inductor per the datasheet in order to reduce noise.
+- Added a Input Inductor on the voltage regulator to reduce ringing on the circuit.
+- Added a 1.9A Fuse for safety and including a tripped fuse LED indicator.
+- Added more filtering caps on the 5v Output (47uF, 10uF, .01uF, pF)
+
+![image](https://user-images.githubusercontent.com/70423454/229325793-baef0093-d8a6-4850-8d56-2221a6fc778e.png)
+
+
 **2/14/2023 2.0 Update**
 - Upgraded the Full Bridge Rectifier to one that can do 5 Amps. The old version was getting pretty warm.
 - Beefier DC Input Jack that can handle 5 Amps (old one could only do 2.5 amps)
