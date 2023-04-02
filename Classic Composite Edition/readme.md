@@ -3,7 +3,7 @@
 - Changed the 6.8uH Inductor to a 10uH inductor per the datasheet in order to reduce noise.
 - Added a Input Inductor on the voltage regulator to reduce ringing on the circuit.
 - Added a 1.9A Fuse for safety and including a tripped fuse LED indicator.
-- Added more filtering caps on the 5v Output (47uF, 10uF, .01uF, pF)
+- Added more filtering caps on the 5v Output (47uF, 22uF, .1uF, 50pF)
 
 ![image](https://user-images.githubusercontent.com/70423454/229325793-baef0093-d8a6-4850-8d56-2221a6fc778e.png)
 
