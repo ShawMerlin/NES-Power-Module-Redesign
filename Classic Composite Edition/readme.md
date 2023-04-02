@@ -1,7 +1,7 @@
 **4/01/2023 2.1 Update**
 - Create a Full Bridge Rectifier out of SMC Diodes for better heat dissapation into the PCB Board.
 - Changed the 6.8uH Inductor to a 10uH inductor per the datasheet in order to reduce noise.
-- Added a Input Inductor on the voltage regulator to reduce ringing on the circuit.
+- Added an Input Inductor on the voltage regulator to reduce ringing on the circuit.
 - Added a 1.9A Fuse for safety and including a tripped fuse LED indicator.
 - Added more filtering caps on the 5v Output (47uF, 22uF, .1uF, 50pF)
 
