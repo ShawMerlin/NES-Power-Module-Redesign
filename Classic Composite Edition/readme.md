@@ -5,7 +5,7 @@
 - Added a 1.9A Fuse for safety and including a tripped fuse LED indicator.
 - Added more filtering caps on the 5v Output (47uF, 22uF, .1uF, 50pF)
 
-![image](https://user-images.githubusercontent.com/70423454/229325793-baef0093-d8a6-4850-8d56-2221a6fc778e.png)
+![image](https://user-images.githubusercontent.com/70423454/229327264-134b7cf2-5151-47fe-b502-df62a01ec055.png)
 
 
 **2/14/2023 2.0 Update**
