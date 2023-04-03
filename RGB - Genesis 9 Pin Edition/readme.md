@@ -1,5 +1,5 @@
 # NES Revival RGBNES "Companion" Power Module.   <br>
-(RGBNES Required for this No Cut Mod Board) <br>
+
 
 4/03/2023 - Newer features of the 2.1 Boards <br>
 - Using JST 2.0 PH Connectors now so the wires are not so microscopic. <br>
@@ -29,6 +29,8 @@ Click here for a list of the features this board offers - [Link](https://github.
 
 
 Click here for Instructions on how to install this Power Module - [Link](https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Install_Instructions.md)
+
+(RGBNES Required for the Gen2 Port on this No Cut Mod Board, Normal Componsite and Audio will still work without it.) <br>
 
 Shoutout to Long Island Retro Gaming for the screenshot!! - https://www.youtube.com/@LIRetroGaming
 ![image](https://user-images.githubusercontent.com/70423454/226394506-f0109706-81cb-4232-8296-21bb947b9209.png)
