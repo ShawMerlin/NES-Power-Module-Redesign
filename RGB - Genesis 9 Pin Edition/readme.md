@@ -1,6 +1,14 @@
 # NES Revival RGBNES "Companion" Power Module.   <br>
 (RGBNES Required for this No Cut Mod Board) <br>
 
+4/03/2023 - Newer features of the 2.1 Boards <br>
+- Using JST 2.0 PH Connectors now so the wires are not so microscopic. <br>
+- Updated the Audio Selection Switch to also control Audio Output on the Gen2 Port. <br>
+- Added the Internal Componsite Circuit so now this board can be fully used without a RGBNES Installed. <br>
+- Video Selection switch will now control whether Int or Ext Video is outputted on the RCA Jack. <br>
+- If Dual Mono Audio is desired, a simple RCA Y Splitter cable can be used on the Red RCA Jack. <br>
+  
+
 3/13/2023 <br>
 Gerbers, BOM and POS (JLCPCB Assembly) have been released and are on this github page. <br>
 
