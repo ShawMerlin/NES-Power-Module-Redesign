@@ -1,6 +1,6 @@
 ## Legend   <Br>
 
-1. This is the Multi-Out Jack.  It can output either Video or Audio depending on how the switch below is set. <Br>
+1. This is the Multi-Out Jack.  It can output either Video or Audio depending on how the switch below is set. (Version 1.9 Only) <Br>
     - The Colors don't matter as much but having Yellow for Video or White for Audio will help with confusion. <Br>
 2. Having the switch selected left will output Audio on the Multi-Out Jack.  Having it Right will output Componsite Video. <Br>
     -  The Video is only fed from the Comp pin on the J8 JST Connector.  Future revisions will have an option for Internal Video. <Br>
