@@ -24,7 +24,7 @@ Please link back here if this helps you with your own project.
 
 More Content Like this - www.facebook.com/GeekIslandGaming
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=97YFBJX4NXA8W)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/geekislandgaming)
 
 
 All Donations are reinvested into ideas and projects. Thank you for the support!!
