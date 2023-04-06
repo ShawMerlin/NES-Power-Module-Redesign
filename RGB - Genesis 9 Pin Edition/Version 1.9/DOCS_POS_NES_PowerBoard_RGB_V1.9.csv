@@ -1,0 +1,17 @@
+Designator,Val,Package,MidX,MidY,Rotation,Layer
+C2,10nF,C_0805_2012Metric,260.55,54.75,0,top
+C3,22uf/25,C_0805_2012Metric,249.3,47.75,-90,top
+C4,.1uF/25,C_0805_2012Metric,247.05,47.75,-90,top
+C5,1uF,C_0805_2012Metric,240.55,50.5,-90,top
+C6,22uf/25,C_1206_3216Metric,247.55,40.75,90,top
+D1,TTR5MF,TTF,223.55,75,180,top
+D2,Power LED,LED_0805_2012Metric,217.2875,28.3,180,top
+J7,BL8033,SOT-23-6_Handsoldering,243.8,50,-90,top
+J12,3P Header,PinHeader_1x02_P2.54mm_Vertical,206.9925,67.25,0,top
+L1,6.8uH,Inductor-L_6.3x6.3_H3,242.39,41.5,0,top
+R1,680,R_0805_2012Metric,217.2875,26.3,180,top
+R4,10k,R_0805_2012Metric,243.3,53.5,180,top
+R5,7.68k,R_0805_2012Metric,238.55,50.5,-90,top
+R6,40.2k,R_0805_2012Metric,239.8,53.5,180,top
+R7,100K,R_0805_2012Metric,248.05,50.75,0,top
+R8,470,R_0805_2012Metric,216.1,39.3,-90,top
