@@ -12,7 +12,7 @@ Project Guardian is a Design Partner of mine, he has these available for Canada/
 I will also have the new USB C Powered prototype available if anyone is interested.  Just sent me a message.
 
 
-3/31/2023 - Check out the new updates here - 
+4/10/2023 - Check out the new updates here - 
 
 
 https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Updates.md
