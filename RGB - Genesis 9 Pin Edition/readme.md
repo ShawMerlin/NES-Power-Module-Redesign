@@ -1,5 +1,16 @@
 # NES Revival RGBNES "Companion" Power Module.   <br>
 
+4/30/2023 - <br> <br>
+When connecting the RGBNES to this PWR Module, do not use the main RGB Headers on the RGBNES. <br>
+- The Gen2 Cables have circuits in them to treat the RGB Signal.  The main RGB Headers on the RGBNES are also treating the RGB Signal. <br>
+- If these header points are used, the picture will be a lot darker as a result. <br>
+- There are other points on the RGBNES that can be used that have the RAW RGB Data before all the processing. <br>
+- Use of the RAW RGB points will allow the picture's brightness to be accurate and good. <br>
+- Reference these pins [HERE](https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/RGB%20-%20Genesis%209%20Pin%20Edition/Features%20and%20Components.md) <br>
+
+
+
+   <br>
 
 4/03/2023 - Newer features of the 2.1 Boards <br>
 - Using JST 2.0 PH Connectors now so the wires are not so microscopic. <br>
