@@ -1,7 +1,7 @@
 # NES Revival - Power-Module Redesign
 Completely Redesigning the NES Power Module to Reduce Noise and EMI <br>
 
-*** 4/10/2023 *** - I have more inventory again on the RGBNES Companion PWR Boards.
+*** 5/12/2023 *** - I have more inventory RGBNES Companion and classic RCA PWR Boards.
 
 I have several boards available on my eBay if you are interested. <br>
 NES RCA Classic PWR Board V2.1 - https://www.ebay.com/itm/145080318108 <br>
