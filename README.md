@@ -11,13 +11,6 @@ EMI was not a worry in 1985 but noise can impact picture and sound quality
 Project is Open Sourced with a MIT License. It can be edited, changed and sold at your own discretion.  
 Please link back here if this helps you with your own project.
 
-More Content Like this - www.facebook.com/GeekIslandGaming
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/geekislandgaming)
-
-
-All Donations are reinvested into ideas and projects. Thank you for the support!!
-
 =-=-=-Special Thanks to Project Guardian-=-=-=
 
 # Goals with these new NES Power Modules
