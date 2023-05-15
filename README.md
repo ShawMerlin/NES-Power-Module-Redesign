@@ -4,14 +4,6 @@ Completely Redesigning the NES Power Module to Reduce Noise and EMI <br>
 
 Project Guardian is a Design Partner of mine, he has these available for sell.  <br> https://www.ebay.ca/sch/i.html?_nkw=&_armrs=1&_from=&_ipg=&_ssn=The.modder <br>
 
-I will also have the new USB C Powered prototype available if anyone is interested.  Just sent me a message.
-
-
-4/10/2023 - Check out the new updates here - 
-
-
-https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Updates.md
-
 
 The original NES Power Module is very noisy.  The Power Traces cross eachother and the ground home path is messy.
 EMI was not a worry in 1985 but noise can impact picture and sound quality
