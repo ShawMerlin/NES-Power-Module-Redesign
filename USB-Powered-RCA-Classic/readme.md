@@ -1,4 +1,3 @@
-I am uploading all my design files for the NES USB Powered RCA Classic Board.
+This USB C Powered NES Module has been fully tested and is ready to be released on Github.
 
-This board has not been tested but I am unable to find the time to Complete this.
-It's fully open source so I hope these files can help others that want to make it their own.
+I plan on putting all Kicad, Gerbers, BOM and POS files so anyone is able to make these boards themselves.
