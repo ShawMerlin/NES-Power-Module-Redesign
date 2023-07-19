@@ -1,11 +1,10 @@
 # NES Revival - Power-Module Redesign
 Completely Redesigning the NES Power Module to Reduce Noise and EMI <br>
 
-I have some of the new V2.1 Power Modules Available on my eBay <br>
-NES RCA Classic PWR Module - https://www.ebay.com/itm/145106056939 <br>
-NESRGB "Companion" PWR Module - https://www.ebay.com/itm/145106059390 <br>
+Due to time constraints and other factors of life, I will not be producing and selling these boards anymore. <br>
+All the files are open source and belong to the community. Anyone is welcome to produce these and sell them. <br>
 
-Project Guardian is a Design Partner of mine, he also has these available for sell.  <br> https://www.ebay.ca/sch/i.html?_nkw=&_armrs=1&_from=&_ipg=&_ssn=The.modder <br>
+Project Guardian is a Design Partner of mine, he  has these available for sell.  <br> https://www.ebay.ca/sch/i.html?_nkw=&_armrs=1&_from=&_ipg=&_ssn=The.modder <br>
 
 
 The original NES Power Module is very noisy.  The Power Traces cross eachother and the ground home path is messy.
