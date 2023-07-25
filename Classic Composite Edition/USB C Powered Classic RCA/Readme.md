@@ -6,6 +6,7 @@ We used the TUSB321RWBR IC for PD Negoations.  This will negotiate up to 3 amps 
 
 This IC also is 5 volt only.  It will not negotiate any voltage about 5 volts so your equipment will always be in safe parameters.
 
+Gerber Files found here - https://github.com/ShawMerlin/NES-Power-Module-Redesign/tree/main/USB-Powered-RCA-Classic/Kicad%20Files
 
 I have added TVS ESD Protection, a 5V clamp, and a 5V Stability inductor to produce clean 5V Power no matter the quality of input power.
 
