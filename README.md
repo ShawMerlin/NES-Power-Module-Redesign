@@ -1,13 +1,20 @@
 # NES Revival - Power-Module Redesign
 Completely Redesigning the NES Power Module to Reduce Noise and EMI <br>
+ <br>
 
-Due to time constraints and other factors of life, I will not be producing and selling these boards anymore. <br>
-All the files are open source and belong to the community. Anyone is welcome to produce these and sell them. <br>
+1/16/2024  <br>
+ 
+I have a small sample of the new RGB "Companion" 3.0 Boards that are available  <br>
+I plan on ordering more and offering them on my eBay account again. https://www.ebay.com/usr/marwiz1981  <br>
+I will also update the classic design with the new features of the RGB Board and offer that one as well. <br>
 
-Project Guardian is a Design Partner of mine, he  has these available for sell.  <br> https://www.ebay.ca/sch/i.html?_nkw=&_armrs=1&_from=&_ipg=&_ssn=The.modder <br>
+https://github.com/ShawMerlin/NES-Power-Module-Redesign/tree/main/RGB%20-%20Genesis%209%20Pin%20Edition  <br>
 
+<img width="425" alt="image" src="https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/af423b35-70f9-44ad-add4-83424039629f">
 
-The original NES Power Module is very noisy.  The Power Traces cross eachother and the ground home path is messy.
+<br> <br>
+
+The original NES Power Module from the 80's is very noisy.  The Power Traces cross eachother and the ground home path is messy.
 EMI was not a worry in 1985 but noise can impact picture and sound quality
 
 Project is Open Sourced with a MIT License. It can be edited, changed and sold at your own discretion.  
