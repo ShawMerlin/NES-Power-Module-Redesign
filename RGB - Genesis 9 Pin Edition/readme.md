@@ -1,5 +1,19 @@
 # NES Revival RGBNES "Companion" Power Module.   <br>
 
+1/16/2024 - Features of the 3.0 Boards
+- Stable and clean 5.06 volts at a 1.5A load.  (7.5 watts)
+- Tested for 48 hours at a 1.8A load (9 watts)
+- Peaks of 2A are fine, but it's pushing the components pretty hard.
+- 1.5A Resettable Fuse on 9V input for board protection. (13.5 watts)
+- The LCSC Chinese Voltage Regulator has been replaced with a TE Connectivity IC. (TPS54202)
+- The Full Bridge Rectifier is a Diode Incorporate part. (MSB30M)
+- All Parts can be obtained from Digi-Key/Mouser
+- Gerbers and Kicad files will be released once testing burn-in is complete.
+
+<img width="624" alt="image" src="https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/f8b0f98b-82c7-4b40-b43b-9c9d3e900d1b">
+
+
+<br> <br>
 4/30/2023 - <br> <br>
 When connecting the RGBNES to this PWR Module, do not use the main RGB Headers on the RGBNES. <br>
 - The Gen2 Cables have circuits in them to treat the RGB Signal.  The main RGB Headers on the RGBNES are also treating the RGB Signal. <br>
