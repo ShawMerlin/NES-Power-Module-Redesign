@@ -9,6 +9,7 @@
 - The Full Bridge Rectifier is a Diode Incorporate part. (MSB30M)
 - All Parts can be obtained from Digi-Key/Mouser
 - Gerbers and Kicad files will be released once testing burn-in is complete.
+- I also plan on offering these again on my eBay account once i'm done with testing.
 
 <img width="624" alt="image" src="https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/f8b0f98b-82c7-4b40-b43b-9c9d3e900d1b">
 
