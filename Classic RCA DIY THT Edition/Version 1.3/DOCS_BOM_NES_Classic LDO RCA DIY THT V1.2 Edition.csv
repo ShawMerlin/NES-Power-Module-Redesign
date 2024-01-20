@@ -1,0 +1,18 @@
+Designator,Qty,Query,Value,Description, Price ,Mouser
+C1,1,UVZ1E222MHD,2200uF,Capacitor_THT:CP_Radial_D12.5mm_P5.00mm,$1.00 ,https://www.mouser.com/ProductDetail/Nichicon/UVZ1E222MHD?qs=IervGVB6FOU7x4X6KRxxHg%3D%3D
+C2,1,FG18C0G1H103JNT00,10nF,Ceramic Capacitors MLCC -  0.01uF - 5% - C0G (NP0),$0.51 ,https://www.mouser.com/ProductDetail/TDK/FG18C0G1H103JNT00?qs=vNwBHymccZ%252Bw21RycOG3mw%3D%3D
+C3,1,FG16X7R2A334KNT06,.33uF,Ceramic Capacitors MLCC - 0.33uF - 10% - X7R,$0.56 ,https://www.mouser.com/ProductDetail/TDK/FG16X7R2A334KNT06?qs=qf2ddTMq67VlCs5DKK16%252Bg%3D%3D
+C4,1,FG16C0G1H104JNT06,100nF,Ceramic Capacitors MLCC -  0.1uF - 5% - C0G (NP0),$0.75 ,https://www.mouser.com/ProductDetail/TDK/FG16C0G1H104JNT06?qs=qf2ddTMq67VWU%252BzSLgM9lA%3D%3D
+C8,1,A750EK227M1CAAE016,220uF,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,$0.58 ,https://www.mouser.com/ProductDetail/KEMET/A750EK227M1CAAE016?qs=M6jHmRuQorX%252BbkmlO9snxA%3D%3D
+D1,1,GBL410_T0_00601,4A,Bridge Rectifiers 4A/1000V low vf bridge,$0.70 ,https://www.mouser.com/ProductDetail/Panjit/GBL410_T0_00601?qs=vvQtp7zwQdOZWOPgfhTt1w%3D%3D
+D2,1,-,-,5mm Through Hole LED - Any Color,$0.06 ,https://www.amazon.com/EDGELEC-100pcs-Resistors-Included-Emitting/dp/B077XDN49X
+J1,1,Power Jack,PJ-037A,"2.1mm ID, DC Power Supply Connector, 2 Pin",$0.68 ,https://www.mouser.com/ProductDetail/CUI-Devices/PJ-037A?qs=WyjlAZoYn53bdNRXfildEA%3D%3D
+J3,1,White RCA,"RCJ-043	",Left Audio - White RCA Jack,$1.64 ,https://www.mouser.com/ProductDetail/CUI-Devices/RCJ-043?qs=WyjlAZoYn518Y1bnzBVySQ%3D%3D
+J4,1,Yellow RCA,"RCJ-044	",Video Out Yellow RCA Jack,$1.64 ,https://www.mouser.com/ProductDetail/CUI-Devices/RCJ-044?qs=WyjlAZoYn50SPBJvOy7ojw%3D%3D
+J5,1,Red RCA,"RCJ-042	",Right Audio - Red RCA Jack,$1.64 ,https://www.mouser.com/ProductDetail/CUI-Devices/RCJ-042?qs=WyjlAZoYn51fgBDaFkMuLQ%3D%3D
+Q1,1,KSA1015YTA,-,"Bipolar (BJT) Transistor PNP 50 V 150 mA 80MHz 400 mW	",$0.44 ,https://www.mouser.com/ProductDetail/onsemi-Fairchild/KSA1015YTA?qs=ljbEvF4DwOP4wK7PS53%252BtA%3D%3D
+Q2,1,L78S05CV,,Linear Voltage Regulators 5.0V 2.0A Positive,$1.12 ,https://www.mouser.com/ProductDetail/STMicroelectronics/L78S05CV?qs=sepekKm5O7lXLQm2U%2FAl6g%3D%3D
+R1,1,MFR-25SFTF52-4K7,4.7K,Carbon Film Resistors - Through Hole 1/4W 4.7K Ohm ,$0.10 ,https://www.digikey.com/en/products/detail/yageo/MFR25SFTF52-4K7/9144664
+R2,1,MFR-25FBF52-300R,300,Carbon Film Resistors - Through Hole 1/4W 300 Ohm,$0.10 ,https://www.digikey.com/en/products/detail/yageo/MFR-25FBF52-300R/9138132
+R3,1,MFR-25FBF52-110R,110,Carbon Film Resistors - Through Hole 1/4W 110 Ohm,$0.10 ,https://www.digikey.com/en/products/detail/yageo/MFR-25FBF52-110R/12804
+-,1,Heatsink,-,HEATSINK ANOD ALUM TO-220,$0.72 ,https://www.digikey.com/en/products/detail/assmann-wsw-components/V4330N/3511519
