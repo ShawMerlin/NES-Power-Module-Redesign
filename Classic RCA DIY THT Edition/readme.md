@@ -1,6 +1,8 @@
 # NES Revival PWR Board DIY Edition
 
 A DIY NES Power Module for at home assembly that uses a LDO instead of a buck converter to get the voltage to 5V <br>
+To View the Virtual BOM without downloading, click here <a href="http://htmlpreview.github.io/?https://github.com/twbs/bootstrap/blob/gh-pages/2.3.2/index.html">Virtual BOM</a>
+  
 
 1/20/2024 - Complete Redesign on Version 3.0 to get the LDO back to where it is on the original Power Module. <br>
 This will allow for the orignal Heatsink to be used or Regulator TSR2-2450 if no Heatsink is wanted. <br>
