@@ -1,7 +1,9 @@
 # NES Revival PWR Board DIY Edition
 
 A DIY NES Power Module for at home assembly that uses a LDO instead of a buck converter to get the voltage to 5V <br>
-To View the Virtual BOM without downloading, click here <a href="http://htmlpreview.github.io/?https://github.com/twbs/bootstrap/blob/gh-pages/2.3.2/index.html">Virtual BOM</a>
+To View the Virtual BOM without downloading, click here - <a href="https://htmlpreview.github.io/?https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Classic%20RCA%20DIY%20THT%20Edition/Virtual%20BOM%20-%20NES_PowerBoard_LDO_RCA_DIY_V3-0.html">Virtual BOM</a>
+
+
   
 
 1/20/2024 - Complete Redesign on Version 3.0 to get the LDO back to where it is on the original Power Module. <br>
