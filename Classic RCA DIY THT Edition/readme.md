@@ -12,8 +12,7 @@ Extra Modifications for a Common Mode Choke and Bypass Capacitors on 5V Out to h
 <img width="467" alt="image" src="https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/0d79199a-6e85-48da-a29a-e2ef5154d0fc">
 
 
-2/01/2022 - Version 1.2 ordered today.  Will test when they come in and then release Gerbers.
-          - BOM is Available now, Gerbers will be available after testing.
+ <br> <br>
 
 Key Features on this board. <br>
 - No SMD Parts, All THT and easy to solder. <br>
