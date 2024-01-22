@@ -10,6 +10,9 @@ To View the Virtual BOM without downloading, click here - <a href="https://htmlp
 This will allow for the orignal Heatsink to be used or Regulator TSR2-2450 if no Heatsink is wanted. <br>
 Extra Modifications for a Common Mode Choke and Bypass Capacitors on 5V Out to help reduce all Noise. <br>
 
+ <br>
+ I added a Low Cost tab in the BOM if noise is not as big of a concern.  Savings is about $5 from selecting these parts.  <br>
+
 2/14/2023 - Minor changes to V1.3 including a correction in one of the capacitor values on the silkscreen and putting hot indicators <br>
           - Gerbers are now available that can be used at your favorite PCB Fab House. <br> <br>
 
