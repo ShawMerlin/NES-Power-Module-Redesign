@@ -7,7 +7,7 @@ Completely Redesigning the NES Power Module to Reduce Noise and EMI <br>
 I have a small sample of the new RGB "Companion" 3.0 Boards that are available  <br>
 I plan on ordering more and offering them on my eBay account again. <br>
 Here is my listing <br>
-https://www.ebay.com/itm/145567695633 <br>
+https://www.ebay.com/itm/145572876666 <br>
 
 I will also update the classic design with the new features of the RGB Board and offer that one as well. <br>
 
