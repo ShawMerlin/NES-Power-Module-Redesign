@@ -26,6 +26,4 @@ Extra Modifications for a Common Mode Choke and Bypass Capacitors on 5V Out to h
 Key Features on this board. <br>
 - No SMD Parts, All THT and easy to solder. <br>
 - L78S05CV for 2 Amps of Power <br>
-- Heatsink with full ground plane on both layers underneath the Heatsink. <br>
-- Should be printed with 2oz copper to help dissipate the heat. <br>
 - Power Indicator LED is optional with a Solder Jumper to enable. <br> <br>
