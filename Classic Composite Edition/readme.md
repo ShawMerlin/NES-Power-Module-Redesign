@@ -1,3 +1,10 @@
+**2/06/2024 3.0 Update** <br>
+- I am in the process of testing our new 3.0 design with lots of great feedback from our community. <br>
+- At this time, I do not recommend having any of the 2.0 boards built. <br>
+- If you have already invested time/money into the older boards, Please contact me so we can work something out. <br>
+- I have an official Statement on these new boards within a few weeks. <br>  <br>
+
+
 **4/01/2023 2.1 Update**
 - Create a Full Bridge Rectifier out of SMC Diodes for better heat dissapation into the PCB Board.
 - Changed the 6.8uH Inductor to a 10uH inductor per the datasheet in order to reduce noise.
