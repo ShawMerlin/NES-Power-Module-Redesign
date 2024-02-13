@@ -1,5 +1,10 @@
 # NES Revival RGBNES "Companion" Power Module.   <br>
 
+2/13/2024 - 
+- Testing has been going great!!  I have now ordered my first production run.
+- With some help from this great community, I have made improvments to the design.
+- I plan on releasing a full breakdown of these new boards and some words on older designs.
+
 1/16/2024 - Features of the 3.0 Boards
 - Stable and clean 5.06 volts at a 1.5A load.  (7.5 watts)
 - Tested for 48 hours at a 1.8A load (9 watts)
