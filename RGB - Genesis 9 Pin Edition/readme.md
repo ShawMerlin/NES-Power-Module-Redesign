@@ -3,7 +3,8 @@
 2/13/2024 - Production Boards have been ordered. <br>
 - Testing has been going great!!  I have now ordered my first production run. <br>
 - With some help from this great community, I have made improvments to the design. <br>
-- I plan on releasing a full breakdown of these new boards and some words on older designs. <br> <br>
+- I plan on releasing a full breakdown of these new boards and some words on older designs. <br>
+- Open Source Files will be released once the Production Boards are verified <br> <br>
 
 1/16/2024 - Features of the 3.0 Boards  <br>
 - Stable and clean 5.06 volts at a 1.5A load.  (7.5 watts) <br>
