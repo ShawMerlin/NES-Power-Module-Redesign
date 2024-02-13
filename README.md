@@ -2,6 +2,9 @@
 Completely Redesigning the NES Power Module to Reduce Noise and EMI <br>
  <br>
 
+2/13/2024 - New Updates on the Rivial RGBNES 'Companion" Power Module <br>
+https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/RGB%20-%20Genesis%209%20Pin%20Edition/readme.md <br> <br>
+
 1/16/2024  <br>
  
 I have a small sample of the new RGB "Companion" 3.0 Boards that are available  <br>
