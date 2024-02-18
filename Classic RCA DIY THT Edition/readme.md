@@ -3,8 +3,10 @@
 A DIY NES Power Module for at home assembly that uses a LDO instead of a buck converter to get the voltage to 5V <br>
 To View the Virtual BOM without downloading, click here - <a href="https://htmlpreview.github.io/?https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Classic%20RCA%20DIY%20THT%20Edition/Virtual%20BOM%20-%20NES_PowerBoard_LDO_RCA_DIY_V3-0.html">Virtual BOM</a>
 
+2/18/2024 - Changed to a 4 layer PCB Board to help with coupling the front and back layer to the inner gnd layers.  This is only a few more
+dollars for the PCB but is well worth it for noise reduction. <br> <br>
 
-1/28/2024 - Moved the NES GND Connection pad closer to the LDO  
+1/28/2024 - Moved the NES GND Connection pad closer to the 7805 <br> <br>  
 
 1/20/2024 - Complete Redesign on Version 3.0 to get the LDO back to where it is on the original Power Module. <br>
 This will allow for the orignal Heatsink to be used or Regulator TSR2-2450 if no Heatsink is wanted. <br>
