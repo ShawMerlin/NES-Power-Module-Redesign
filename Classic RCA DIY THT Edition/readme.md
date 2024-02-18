@@ -8,7 +8,7 @@ dollars for the PCB but is well worth it for noise reduction. <br> <br>
 
 1/28/2024 - Moved the NES GND Connection pad closer to the 7805 <br> <br>  
 
-1/20/2024 - Complete Redesign on Version 3.0 to get the LDO back to where it is on the original Power Module. <br>
+1/20/2024 - Complete Redesign on Version 3.0 to get the 7805 back to where it is on the original Power Module. <br>
 This will allow for the orignal Heatsink to be used or Regulator TSR2-2450 if no Heatsink is wanted. <br>
 Extra Modifications for a Common Mode Choke and Bypass Capacitors on 5V Out to help reduce all Noise. <br>
 
