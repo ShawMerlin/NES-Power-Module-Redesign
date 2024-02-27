@@ -3,6 +3,10 @@
 A DIY NES Power Module for at home assembly that uses a LDO instead of a buck converter to get the voltage to 5V <br>
 To View the Virtual BOM without downloading, click here - <a href="https://htmlpreview.github.io/?https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/Classic%20RCA%20DIY%20THT%20Edition/Virtual%20BOM%20-%20NES_PowerBoard_LDO_RCA_DIY_V3-0.html">Virtual BOM</a>
 
+2/26/2024 - An issue was discovered with the pinout on the Q1 Transistor.  Version 3.1C was created to fix this pinout issue.  If Version 3.1b  <br>
+has already been ordered, you can still use it but you have to rotate the transistor 90 degrees to put the legs in the right holes.  <br> 
+Please reach out to me through email if you need help with this.  <br> <br>
+
 2/18/2024 - Changed to a 4 layer PCB Board to help with coupling the front and back layer to the inner gnd layers.  This is only a few more
 dollars for the PCB but is well worth it for noise reduction. <br> <br>
 
