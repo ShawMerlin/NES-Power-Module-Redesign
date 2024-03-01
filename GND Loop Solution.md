@@ -13,9 +13,9 @@ While I do not believe that these power boards in the wild pose a danger to the 
 Currently, I have only seen about a 4% failure rate on people reporting back to me. (Which I feel is still too high).   <br>
 The whole idea behind this redesign from the beginning was to have a product that would last for years to come.  <br>
 
-This GND Loop only impacts the Power Boards with Switching Regulators.  It does not exist on the 7805 designs <br>
+This GND Loop only impacts the Power Boards with Switching Regulators.  It does not exist on the 7805 designs. <br>
 The suggestion for 2oz copper on the 7805 designs was to provide more copper for heat dissipation and not to couple noise frequencies. <br>
-I would like the express my thanks to the Dubesinhower Discord Group for bringing this to my attention <br>
+I would like the express my thanks to the Dubesinhower Discord Group for bringing this to my attention. <br>
 I would also like to personally thank Zaxour for assisting with the new design layout. - https://twitter.com/zaxour  <br>
 
 If you have one of these boards that has failed and have not yet contacted me.  Please reach out so I can provide a full replacement at no cost. <br>
