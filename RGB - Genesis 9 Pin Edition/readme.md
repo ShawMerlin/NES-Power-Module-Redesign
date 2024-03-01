@@ -1,5 +1,15 @@
 # NES Revival RGBNES "Companion" Power Module.   <br>
 
+3/1/2024 - Testing of the new Design 3.0b is going great.  <br>
+- We have moved to a 4 layer board to increase the coupling of the switching components to the inner GND layers. <br>
+- The Switch input is only used now to power the enable pin on the Buck Converter.  The Input power comes directly from the board itself. <br>
+- GND to NES Connector has been moved closer to the Voltage Regulator to reduce the GND Loop area. <br>
+- Inductor has been moved further away from the interconnect pins and more bypass capacitors have been added to help reduce noise. <br>
+- I plan on doing a more indepth analsys of this design vs the older design and releasing the results. <br>
+- All Kicad files and Gerber files will be released once testing is completed. <br>
+
+<img width="344" alt="image" src="https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/c21c04b3-b89d-4ebf-80a3-42db8bc4180e">
+
 2/13/2024 - Production Boards have been ordered. <br>
 - Testing has been going great!!  I have now ordered my first production run. <br>
 - With some help from this great community, I have made improvments to the design. <br>
