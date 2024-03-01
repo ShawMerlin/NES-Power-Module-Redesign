@@ -18,6 +18,7 @@ The suggestion for 2oz copper on the 7805 designs was to provide more copper for
 I would like the express my thanks to the Dubesinhower Discord Group for bringing this to my attention <br>
 I would also like to personally thank Zaxour for assisting with the new design layout. - https://twitter.com/zaxour  <br>
 
+If you have one of these boards that has failed and have not yet contacted me.  Please reach out so I can provide a full replacement at no cost. <br>
 To make right to the community that I love,  I have 2 options for those that have a NES Revival Power Board and would like this fixed.  <br>  <br>
 
 ## Option #1 - A quick DIY Fix to shorten the GND Loop on the Power Board itself  <br>
