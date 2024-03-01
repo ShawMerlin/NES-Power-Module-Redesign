@@ -11,6 +11,7 @@ This large GND Loop results in ringing and other undesirable impacts to the over
 
 While I do not believe that these power boards in the wild pose a danger to the NES, they will have a reduced life as a result.  <br>
 Currently, I have only seen about a 4% failure rate on people reporting back to me. (Which I feel is still too high).   <br>
+The whole idea behind this redesign from the beginning was to have a product that would last for years to come.  <br>
 
 This GND Loop only impacts the Power Boards with Switching Regulators.  It does not exist on the 7805 designs <br>
 The suggestion for 2oz copper on the 7805 designs was to provide more copper for heat dissipation and not to couple noise frequencies. <br>
