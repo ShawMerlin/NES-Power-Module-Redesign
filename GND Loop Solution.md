@@ -24,13 +24,15 @@ To make right to the community that I love,  I have 2 options for those that hav
 ## Option #1 - A quick DIY Fix to shorten the GND Loop on the Power Board itself  <br>
 
 - Step 1 Just right of the bottom interconnect pin, scrap back the soldermask  <br>
-<img width="477" alt="image" src="https://github.com/ShawMerlin/Project-Notes/assets/70423454/02046060-b7c6-4868-9515-8014584bc00d">   <br>
+<img width="477" alt="309180911-02046060-b7c6-4868-9515-8014584bc00d" src="https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/2560f9dd-af5f-42d0-9adf-d95cec8b2b8f">
 
 - Step 2 Place a ball of solder on this exposed GND section.  <br>
-<img width="477" alt="image" src="https://github.com/ShawMerlin/Project-Notes/assets/70423454/36140deb-ef84-42a1-8bc5-7efc649354b4">   <br>
+<img src="https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/29002b1c-42c4-48c1-8e8f-bb27ad84560e" width="477" />
+
 
 - Step 3 Connect a GND Wire to that newly created pad and connect it to a nearby GND point on the NES Main Board <br>
-<img width="477" alt="image" src="https://github.com/ShawMerlin/Project-Notes/assets/70423454/67fcb3c9-f568-41c2-84d7-28f514fb76d6">   <br>
+<img src="https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/263d48f2-f135-47a0-a4f4-103b7e10d3cb" width="477" />
+
 
 
 ## Option #2 - A replacement Power Module will be offered at a heavily discounted rate.  <br>
