@@ -35,6 +35,6 @@ To make right to the community that I love,  I have 2 options for those that hav
 
 ## Option #2 - A replacement Power Module will be offered at a heavily discounted rate.  <br>
 - If you have spent money/resources in any of these designs and would like a full replacement.  Please reach out to me. <br>
-- My email is Merlin.Shaw@gmail.com.  Let me know how many replacements you would like to cover the boards you have made/purchased. <br>
+- My email is Merlin.Shaw@gmail.com.  Let me know how many replacements you need to cover the boards you have made/purchased. <br>
 - I will add your name to a list for replacements and will work to get through the list in a timely but realistic fashion. <br>
 - The discount on the board will cover my costs and shipping. <br>
