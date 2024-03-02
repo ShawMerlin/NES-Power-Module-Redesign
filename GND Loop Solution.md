@@ -33,6 +33,7 @@ To make right to the community that I love,  I have 2 options for those that hav
 - Step 3 Connect a GND Wire to that newly created pad and connect it to a nearby GND point on the NES Main Board <br>
 <img src="https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/263d48f2-f135-47a0-a4f4-103b7e10d3cb" width="477" />
 
+- Step 4 Disconnect the original GNDing wire so that it's no longer on either the power module or the NES Main Board.<br>
 
 
 ## Option #2 - A replacement Power Module will be offered at a heavily discounted rate.  <br>
