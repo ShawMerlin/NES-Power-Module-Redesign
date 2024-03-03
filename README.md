@@ -2,6 +2,10 @@
 Completely Redesigning the NES Power Module to Reduce Noise and EMI <br>
  <br>
 
+3/2/2024  <br>
+GND Loop Issue Discovered on Older Boards and a Quick DIY Solution for it. <br>
+https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/GND%20Loop%20Solution.md <br> <br>
+
 2/13/2024 <br>
 New Updates on the Rivial RGBNES 'Companion" Power Module <br>
 https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/RGB%20-%20Genesis%209%20Pin%20Edition/readme.md <br> <br>
