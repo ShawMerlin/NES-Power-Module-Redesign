@@ -20,4 +20,4 @@ Desolder S4 & S5 if using the RGBNES and solder S3. <br> <br>
 S1 & S3 are both external inputs, these come directly from the J8 JST Cable. <br>
 These must be hooked up to the RGBNES's outputs in order for them to work correctly. <br>
 
-<img width="874" alt="image" src="https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/ea951577-739b-4272-8ea3-00ca7ec8aecf">
+<img width="729" alt="image" src="https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/527b4141-25a6-4cc6-828f-3ad0cbdd543d">
