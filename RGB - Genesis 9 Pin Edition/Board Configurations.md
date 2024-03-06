@@ -1,4 +1,4 @@
-# Solder Jumper Configurations <br> <br>
+# Solder Jumper Configurations <br>
 
 The Boards will come pre-configured for both External Video and Audio (S1 & S3) <br>
 If Internal Video or Audio is desired, then the above solder jumpers will have to be desoldered. <br>
