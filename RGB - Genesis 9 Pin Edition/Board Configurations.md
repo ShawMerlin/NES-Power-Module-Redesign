@@ -1,3 +1,5 @@
+The next rendition of the RGB Board will have the selector switches removed in favor of Solder Jumpers. <br>
+
 # Solder Jumper Configurations <br>
 
 The Boards will come pre-configured for both External Video and Audio (S1 & S3) <br>
