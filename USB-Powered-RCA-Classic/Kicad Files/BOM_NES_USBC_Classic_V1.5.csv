@@ -1,0 +1,29 @@
+Comment,Designator,SMD Footprints,LCSC,Website
+2200uF,C1,"SMD,D12.5xL13.5mm",C99834,https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-RVT1A222M1213_C99834.html
+10nF,"C2,C9",C_0805_2012Metric,C1710,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B103KBANNNC_C1710.html
+47uF,C3,C_0805_2012Metric,C76636,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TDK-C2012X5R1A476MTJ00E_C76636.html
+1uF,C4,C_0805_2012Metric,C28323,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B105KBFNNNE_C28323.html
+22uF,C5,C_0805_2012Metric,C45783,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.html
+.1uF,C6,C_0805_2012Metric,C49678,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0805KRX7R9BB104_C49678.html
+330uF,C7,"SMD,6.3x5.8mm",C176319,https://www.lcsc.com/product-detail/Solid-Capacitors_APAQ-Tech-6R3AVEA331M0606_C176319.html
+220uF,C8,CAP-SMD,C259967,https://www.lcsc.com/product-detail/Solid-Capacitors_Nichicon-FP-6R3ME221M-SLR_C259967.html
+Green_LED,D1,LED_0805_2012Metric,C2297,https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Hubei-KENTO-Elec-KT-0805G_C2297.html
+SMA4734A,D2,SMA(DO-214AC),C2917848,https://www.lcsc.com/product-detail/Zener-Diodes_ZHIDE-SMA4734A_C2917848.html
+Red_LED,D3,LED_0805_2012Metric,C84256,https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.html
+1N4148W,D4,SOD-123,C81598,https://www.lcsc.com/product-detail/Switching-Diode_ST-Semtech-1N4148W_C81598.html
+MINISMDC150F/16-2,FUSE1,F1812,C315955,https://www.lcsc.com/product-detail/Resettable-Fuses_Littelfuse-MINISMDC150F-16-2_C315955.html
+1.5K,R1,R_0805_2012Metric,C4310,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1501T5E_C4310.html
+300R,R2,R_0805_2012Metric,C17617,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F3000T5E_C17617.html
+110R,R3,R_0805_2012Metric,C246031,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0805FR-07110RL_C246031.html
+5.1K,"R4,R5",R_0402_1005Metric,C105872,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-075K1L_C105872.html
+680R,"R6,R7",R_0805_2012Metric,C17798,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F6800T5E_C17798.html
+2SA1015,Q1,SOT-23,C181170,https://www.lcsc.com/product-detail/Bipolar-Transistors-BJT_Guangdong-Hottech-2SA1015_C181170.html
+SP0502BAHTG,"Q2,Q3",SOT-23,C207261,https://www.lcsc.com/product-detail/Electrostatic-and-Surge-Protection-TVS-ESD_Littelfuse-SP0502BAHTG_C207261.html
+X0202AG-A-AA3-R,T1,SOT-223-3_TabPin2,C696248,https://www.lcsc.com/product-detail/TRIACs_UTC-Unisonic-Tech-X0202AG-A-AA3-R_C696248.html
+PESDNC2XD5VB,U1,DFN0603-D,C110696,https://www.lcsc.com/product-detail/Electrostatic-and-Surge-Protection-TVS-ESD_Shanghai-Prisemi-Elec-PESDNC2XD5VB_C110696.html
+DX07S024XJ1R1100,J2,USB SMD,C134113,https://www.lcsc.com/product-detail/USB-Connectors_JAE-Electronics-DX07S024XJ1R1100_C134113.html
+,,,Mouser,
+White RCA,J3,THT,RCJ-043,https://www.mouser.com/ProductDetail/490-RCJ-043
+Yellow RCA,J4,THT,RCJ-044,https://www.mouser.com/ProductDetail/490-RCJ-044
+Red RCA,J5,THT,RCJ-042,https://www.mouser.com/ProductDetail/490-RCJ-042
+DNP,SW1,,,
