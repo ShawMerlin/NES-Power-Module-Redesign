@@ -2,6 +2,10 @@
 Completely Redesigning the NES Power Module to Reduce Noise and EMI <br>
  <br>
 
+4/5/2024 <br>
+The RGBNES "Companion" Power Board v3.1b has passed it's prototype phase and I am ordering a production run. <br>
+We are getting close to being able to release the gerber files for this design.  I just want to verify with the new order. <br> <br>
+
 3/2/2024  <br>
 GND Loop Issue Discovered on Older Boards and a Quick DIY Solution for it. <br>
 https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/GND%20Loop%20Solution.md <br> <br>
@@ -11,12 +15,7 @@ New Updates on the Rivial RGBNES 'Companion" Power Module <br>
 https://github.com/ShawMerlin/NES-Power-Module-Redesign/blob/main/RGB%20-%20Genesis%209%20Pin%20Edition/readme.md <br> <br>
 
 1/16/2024  <br>
- 
 I have a small sample of the new RGB "Companion" 3.0 Boards that are available  <br>
-I plan on ordering more and offering them on my eBay account again. <br>
-Here is my listing <br>
-https://www.ebay.com/itm/145572876666 <br>
-
 I will also update the classic design with the new features of the RGB Board and offer that one as well. <br>
 
 https://github.com/ShawMerlin/NES-Power-Module-Redesign/tree/main/RGB%20-%20Genesis%209%20Pin%20Edition  <br>
