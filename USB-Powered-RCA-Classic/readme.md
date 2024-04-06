@@ -11,7 +11,7 @@ Here is a sneak peak  ;)   <BR>
 The USB C Standard allows for voltages between 4.75 and 5.75 volts.  The NES does not like voltages under or above 5.0-5.1 volts. <BR>
 So it was kit or miss when it came to what USB C Brick was used. <BR> <BR>
 
-With USB C PD, we will output a stable 9 volts and then use a voltage regulator to output a stable 5.07 volts. <BR>
+With USB C PD, we will output a stable 9 - 12 volts and then use a voltage regulator to output a stable 5.07 volts. <BR>
 This regulator has been tested and found to only have a 23mV peak to peak. <BR>
 I plan to have this design ready for release in about 4 weeks. <BR> <BR>
 
