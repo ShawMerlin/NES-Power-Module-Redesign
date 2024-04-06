@@ -1,3 +1,7 @@
+4/5/2024 - I added websites to the older USB C Design.  I still do not recommend using this design. <BR>
+I am close to ordering my first prototype for the USB C PD Board.  The Evaluation board I got to test this has worked great. <BR>
+I hope to order within a few weeks, i'm just trying to save up for the order.  <BR>
+
 3/31/2024 - Please note that I am currently working on a USB C PD version that will be a lot more stable. <BR>
 The USB C Standard allows for voltages between 4.75 and 5.75 volts.  The NES does not like voltages under or above 5.0-5.1 volts. <BR>
 So it was kit or miss when it came to what USB C Brick was used. <BR>
