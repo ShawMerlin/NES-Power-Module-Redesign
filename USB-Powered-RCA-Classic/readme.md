@@ -1,4 +1,7 @@
-4/5/2024 - I added websites to the older USB C Design.  I still do not recommend using this design. <BR>
+4/27/2024 - The Prototype of the USB C PD Power Board has been ordered and we should be testing it at the end of next week. <BR>
+I do plan on offering these for sell when they have completed testing. <BR> <BR>
+
+4/5/2024 - I added information to the older USB C Design.  I still do not recommend using this design. <BR>
 I am close to ordering my first prototype for the USB C PD Board.  The Evaluation board I got to test this has worked great. <BR>
 I hope to order within a few weeks, i'm just trying to save up for the order.  <BR> <BR>
 Here is a sneak peak  ;)   <BR>
