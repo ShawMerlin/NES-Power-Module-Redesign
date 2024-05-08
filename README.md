@@ -3,7 +3,7 @@ Completely Redesigning the NES Power Module to Reduce Noise and EMI <br>
  <br>
 
 5/8/2024 <br>
-I have my first 3.1c production run ready for eBay.  Send me an email if you have any questions.<br>
+I have my first RGB "Companion" 3.1c production boards run ready for eBay.  Send me an email if you have any questions.<br>
 Gerber files will be released this week!! <br>
 https://www.ebay.com/itm/145572876666 <br> <br>
 
