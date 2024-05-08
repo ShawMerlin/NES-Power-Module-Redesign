@@ -1,5 +1,9 @@
 # NES Revival RGBNES "Companion" Power Module.   <br>
 
+5/8/2024 - Version 3.1c is production ready, Gerbers will be released this week. <br>
+I have a full analsyis with aid from Zaxour to show peformance levels for these boards. <br> <br>
+<img width="369" alt="image" src="https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/47ca7ab6-46ba-4358-a3f6-db5eddd7737f">
+<br> <br>
 3/1/2024 - Testing of the new Design 3.0b is going well.  <br>
 - We have moved to a 4 layer board to increase the coupling of the switching components to the inner GND layers. <br>
 - The Switch input is only used now to power the enable pin on the Buck Converter.  The Input power comes directly from the board itself. <br>
