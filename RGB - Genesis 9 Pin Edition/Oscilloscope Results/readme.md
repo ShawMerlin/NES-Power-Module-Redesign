@@ -25,8 +25,8 @@ Here are his results. <br> <br>
 Ossiloscope used for testing: RIGOL DS1202 <br>
 Parameters: <br>
 - Bandwidth 20Mhz. <br>
-- DC cupled <br>
-- 1x probe. <br>
+- AC coupled <br>
+- 10x probe. <br>
 - No Probe spring was used so the dimmer spiky noise can be ignored. <br>
 - Tested at 1.9 Amps Constant Current <br> <br>
 
