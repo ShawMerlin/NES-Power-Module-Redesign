@@ -32,7 +32,7 @@ Parameters: <br>
 
 ![image](https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/cf501326-70eb-4fd8-b90e-123f69dc4fa4)
 <br> <br>
-Showing the A/C Results. <br>
+Showing the A/C Results at 1.9 Amps. <br>
 ![image](https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/753c82f8-9653-4503-8a3b-733ac7c5f3db)
 
 
