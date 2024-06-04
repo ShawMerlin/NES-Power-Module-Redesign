@@ -1,5 +1,8 @@
 # NES Revival RGBNES "Companion" Power Module.   <br>
 
+6/4/2024 <br>
+- Production files have been released for version 3.1c <br> <br>
+
 5/8/2024 - Version 3.1c is production ready, Gerbers will be released this week. <br>
 I have a full analsyis with aid from Zaxour to show peformance levels for these boards. <br> <br>
 <img width="369" alt="image" src="https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/47ca7ab6-46ba-4358-a3f6-db5eddd7737f">
