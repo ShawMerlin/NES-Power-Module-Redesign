@@ -2,10 +2,12 @@
 Completely Redesigning the NES Power Module to Reduce Noise and EMI <br>
  <br>
 
+6/4/2024 <br>
+The NEW Revival RGBNES "Companion" Power Module production files have been released on this Github. <br>
+More boards are available on my eBay - https://www.ebay.com/itm/145572876666 <br> <br>
+
 5/8/2024 <br>
-I have my first RGB "Companion" 3.1c production boards run ready for eBay.  <br>
-Send me an email if you have any questions.  Gerber files will be released this week!! <br>
-https://www.ebay.com/itm/145572876666 <br> <br>
+I have my first RGB "Companion" 3.1c production boards run ready for eBay.  <br> <br>
 
 4/5/2024 <br>
 The RGBNES "Companion" Power Board v3.1b has passed it's prototype phase and I am ordering a production run. <br>
