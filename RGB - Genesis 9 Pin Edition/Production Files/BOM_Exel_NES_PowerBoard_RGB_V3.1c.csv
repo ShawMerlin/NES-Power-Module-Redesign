@@ -1,0 +1,37 @@
+Comment,Designator,Footprint,JLCPCB Part #,Digkey
+2200uF,C1,Capacitor_THT:CP_Radial_D12.5mm_P5.00mm,C445125,https://www.digikey.com/en/products/detail/nichicon/UVZ1E222MHD/589047
+10nF,C2,C_0805_2012Metric,C1710,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B103KBANNNC/3886673
+10uF,C3,C_0805_2012Metric,C15850,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KAYNNNE/3888549
+.1uF,"C4,C5",C_0603_1608Metric,C14663,https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082
+10nF,C6,C_1206_3216Metric,C1846,https://www.digikey.com/en/products/detail/murata-electronics/GRM3195C1H103JA01D/586883
+22uF,"C7,C8",C_1206_3216Metric,C12891,https://www.digikey.com/en/products/detail/murata-electronics/GRM31CR71A226KE15L/2039036
+.1uF,C9,C_1206_3216Metric,C24497,https://www.digikey.com/en/products/detail/murata-electronics/GRM31C5C1H104JA01K/2548138
+220uF,C10,CAP-SMD_BD6.3-L6.5-W6.5-LS7.0-FD,C125979,https://www.digikey.com/en/products/detail/nichicon/PCJ0J221MCL1GS/1662427
+75pF,C11,C_0805_2012Metric,C5375865,https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN750/5884054
+1nF,C12,C_0805_2012Metric,C520091,https://www.digikey.com/en/products/detail/kemet/C0805C102K2GEC7800/8644593
+MSB30M,D1,MSBL,C460923,https://www.digikey.com/en/products/detail/diodes-incorporated/MSB30M-13/7353064
+Green_LED,D2,LED_SMD:LED_0805_2012Metric,C2297,https://www.digikey.com/en/products/detail/liteon/LTST-C171GKT/386793
+1N4148W,D3,D_SOD-123,C7420318,https://www.digikey.com/en/products/detail/smc-diode-solutions/1N4148W/6022450
+RedLED,D4,LED_0603_1608Metric,C2286,https://www.digikey.com/en/products/detail/liteon/LTST-C191KRKT/386837
+MINISMDC150F/16-2,FUSE1,F1812,C2649921,https://www.digikey.com/en/products/detail/littelfuse-inc/MINISMDC150F-16-2/2319761
+EJ503A,J2,DC Jack,C3095117,https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/EJ503A/5431753
+RCJ-044,J3,Yellow RCA Jack,-,https://www.digikey.com/en/products/detail/cui-devices/RCJ-044/408508
+RCJ-042,J5,Red RCA Jack,-,https://www.digikey.com/en/products/detail/cui-devices/RCJ-042/408506
+3P Header,J4,PinHeader_1x03_P2.54mm_Vertical,C49257,https://www.digikey.com/en/products/detail/samtec-inc/TS-103-T-A/1105491
+TPS54202HDDCT,J7,SOT-23-6,C134129,https://www.digikey.com/en/products/detail/texas-instruments/TPS54202DDCR/6005348
+S7B-PH-K-S(LF)(SN),J8,THT,C157917,https://www.digikey.com/en/products/detail/jst-sales-america-inc/S7B-PH-K-S/926631
+MD-90SM,J9,THT,-,https://www.digikey.com/en/products/detail/cui-devices/MD-90SM/145323
+OS102011MS2QN1,"J10,J11",THT,C221829,https://www.digikey.com/en/products/detail/c-k/OS102011MS2QN1/411602
+15uH,L1,7.2x6.9x4.5mmCopy,C2836220,https://www.digikey.com/en/products/detail/tdk-corporation/CLF7045NIT-150M-D/5812243
+2SA1015,Q1,SOT-23,C181170,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/2SC2712-BL-LF/6691223
+4.7K,R1,R_0805_2012Metric,C17673,https://www.digikey.com/en/products/detail/yageo/RC0603FR-074K02L/727203
+120K,R2,R_0603_1608Metric,C25808,https://www.digikey.com/en/products/detail/yageo/RC0603FR-07120KL/726921
+511K,R3,R_0603_1608Metric,C2684557,https://www.digikey.com/en/products/detail/yageo/RC0603FR-07511KL/727288
+100K,R4,R_0603_1608Metric,C25803,https://www.digikey.com/en/products/detail/yageo/RC0603FR-07100KL/726889
+13.3K,R5,R_0603_1608Metric,C321713,https://www.digikey.com/en/products/detail/yageo/RT0603BRD0713K3L/1072240
+49.9R,R6,R_0603_1608Metric,C23185,https://www.digikey.com/en/products/detail/yageo/RC0603FR-0749R9L/727264
+4.7K,R7,R_0603_1608Metric,C23162,https://www.digikey.com/en/products/detail/yageo/RC0603FR-074K7L/727212
+470R,R8,R_0805_2012Metric,C17710,https://www.digikey.com/en/products/detail/yageo/RC0603FR-07470RL/727256
+300R,R9,R_0805_2012Metric,C17617,https://www.digikey.com/en/products/detail/yageo/RC0805FR-07300RL/727848
+110R,R10,R_0805_2012Metric,C246031,https://www.digikey.com/en/products/detail/yageo/RC0805FR-07110RL/727559
+EG2319,SW1,THT,-,https://www.digikey.com/en/products/detail/e-switch/EG2319/506090
