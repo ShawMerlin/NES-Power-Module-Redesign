@@ -2,6 +2,11 @@
 Completely Redesigning the NES Power Module to Reduce Noise and EMI <br>
  <br>
 
+6/15/2024
+Our first production run on NES Revival Classic RCA Editions have come in.  I have a few left on my eBay. <br>
+https://www.ebay.com/itm/145834635508 <br>
+Gerbers will be released later next week. <br>
+
 6/4/2024 <br>
 The NEW Revival RGBNES "Companion" Power Module production files have been released on this Github. <br>
 More boards are available on my eBay - https://www.ebay.com/itm/145572876666 <br> <br>
