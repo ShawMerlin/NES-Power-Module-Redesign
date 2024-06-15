@@ -1,3 +1,14 @@
+
+**6/15/2024 - Version 3.1c** <br>
+- It's been a long time coming but I wanted to make sure the RGBNES Versions were perfect. <br>
+- This uses the exact same voltage regulator as the RGBNES Compantion Board. <br>
+- GND Loop issue has been resolved. <br>
+- 2 Audio Ports to give Duo Mono Sound. <br>
+- Gerbers will be released for this later next week. <br>
+
+![image](https://github.com/ShawMerlin/NES-Power-Module-Redesign/assets/70423454/58c8878b-3d4e-4b5d-a789-e5c9d7a3947f)
+
+
 **2/06/2024 3.0 Update** <br>
 - I am in the process of testing our new 3.0 design with lots of great feedback from our community. <br>
 - At this time, I do not recommend having any of the 2.0 boards built. <br>
