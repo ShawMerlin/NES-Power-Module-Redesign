@@ -1,5 +1,11 @@
 # NES Revival RGBNES "Companion" Power Module.   <br>
 
+1/15/2024 <br>
+- over 100 of these 3.1c boards have been sent out on my eBay store.
+- A few installation errors but we have seen very little issues with these.
+- Corrected a mistake in the Digikey part number of the Q1 Transistor, the JLCPCB number was correct.
+- We are recommending a 560pF instead of the 1nF capacitor on C12, this provides a slightly crisper image.
+
 6/4/2024 <br>
 - Production files have been released for version 3.1c <br> <br>
 
