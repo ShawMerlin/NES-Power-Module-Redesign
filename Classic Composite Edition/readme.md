@@ -1,6 +1,8 @@
 **1/15/2025 - Version 3.1c** <br>
 -  Updated a mistake in the BOM for the Digikey Part number to be correct on the Q1 Transistor. <br>
 -  https://www.digikey.com/en/products/detail/evvo/2SA1015/22482092 <br> <br>
+- Updated C12 to be 560pF, 1nF will work fine but 560pF produces a slightly sharper picture. <br>
+- https://www.digikey.com/en/products/detail/kemet/C0805C561J5GACAUTO/10642381
 
 **6/15/2024 - Version 3.1c** <br>
 - It's been a long time coming but I wanted to make sure the RGBNES Versions were perfect. <br>
