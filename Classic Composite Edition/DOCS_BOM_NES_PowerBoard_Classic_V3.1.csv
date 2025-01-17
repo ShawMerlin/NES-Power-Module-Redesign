@@ -32,7 +32,7 @@ TPS54202HDDCT,J7,SOT-23-6,C134129,https://www.digikey.com/en/products/detail/tex
 ,,,,
 ,,,,
 ,,,,
-Comment,Designator,Through Hole FootPrints,LCSC,,
+Comment,Designator,Through Hole FootPrints,LCSC,
 Palette Switch,SW1,THT,,EG2319,*JLCPCB has a global source for this
 Yellow RCA (If using Componsite),J3,Yellow RCA Jack for Video,,RCJ-044
 Red RCA,J5,Red RCA Jack for Audio,,RCJ-042
