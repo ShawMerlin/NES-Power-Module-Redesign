@@ -15,7 +15,7 @@ Green_LED,D2,LED_SMD:LED_0805_2012Metric,C2297,https://www.digikey.com/en/produc
 Red LED,D4,LED_0603_1608Metric,C2286,https://www.digikey.com/en/products/detail/liteon/LTST-C191KRKT/386837,
 MINISMDC150F/16-2,FUSE1,F1812,C2649921,https://www.digikey.com/en/products/detail/littelfuse-inc/MINISMDC150F-16-2/2319761,
 EJ503A,J2,THT,C3095117,https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/EJ503A/5431753,
-TPS54202HDDCT,J7,SOT-23-6,C134129,https://www.digikey.com/en/products/detail/texas-instruments/TPS54202DDCR/6005348,
+TPS54202HDDCT,J7,SOT-23-6,C134129,https://www.digikey.com/en/products/detail/texas-instruments/TPS54202HDDCR/6026259
 15uH,L1,7.2x6.9x4.5mm Copy,C2836220,https://www.digikey.com/en/products/detail/tdk-corporation/CLF7045NIT-150M-D/5812243,
 2SA1015,Q1,SOT-23,C181170,https://www.digikey.com/en/products/detail/evvo/2SA1015/22482092,
 4.7K,R1,R_0805_2012Metric, C17673,,
