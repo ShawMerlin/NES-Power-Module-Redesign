@@ -2,7 +2,7 @@
 - Updated a mistake in the BOM for the Digikey Part number to be correct on the Q1 Transistor. <br>
 -  https://www.digikey.com/en/products/detail/evvo/2SA1015/22482092 <br> <br>
 - Updated C12 to be 560pF, 1nF will work fine but 560pF produces a slightly sharper picture. <br>
--  https://www.digikey.com/en/products/detail/kemet/C0805C561J5GACAUTO/10642381 <br>
+-  https://www.digikey.com/en/products/detail/kemet/C0805C561J5GACAUTO/10642381 <br> <br>
 - Updated Switching Regulator to the H Variant in the BOM - 1/17/2025 <br>
 -  https://www.digikey.com/en/products/detail/texas-instruments/TPS54202HDDCR/6026259 <br>
 
