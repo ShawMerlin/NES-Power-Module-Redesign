@@ -32,9 +32,9 @@ TPS54202HDDCT,J7,SOT-23-6,C134129,https://www.digikey.com/en/products/detail/tex
 ,,,,
 ,,,,
 ,,,,
-Comment,Designator,Through Hole FootPrints,LCSC,,
-Palette Switch,SW1,THT,,EG2319,*JLCPCB has a global source for this
+Comment,Designator,Through Hole FootPrints,LCSC,
+Palette Switch,SW1,THT,,EG2319 *JLCPCB has a global source for this
 Yellow RCA (If using Componsite),J3,Yellow RCA Jack for Video,,RCJ-044
 Red RCA,J5,Red RCA Jack for Audio,,RCJ-042
 9 Pin Gen2 Connector,J9,9 Pin Gen2 Connector,,MD-90SM
-3 Pin JST with cable for connecting to Palette,J12is,,,,https://www.amazon.com/2-54MM-Female-Single-Connector-300mm/dp/B01IZAING4
+3 Pin JST with cable for connecting to Palette,J12is,,,https://www.amazon.com/2-54MM-Female-Single-Connector-300mm/dp/B01IZAING4
