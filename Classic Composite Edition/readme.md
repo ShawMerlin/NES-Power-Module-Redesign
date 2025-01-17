@@ -4,7 +4,7 @@
 - Updated C12 to be 560pF, 1nF will work fine but 560pF produces a slightly sharper picture. <br>
 -  https://www.digikey.com/en/products/detail/kemet/C0805C561J5GACAUTO/10642381 <br> <br>
 - Updated Switching Regulator to the H Variant in the BOM - 1/17/2025 <br>
--  https://www.digikey.com/en/products/detail/texas-instruments/TPS54202HDDCR/6026259 <br>
+-  https://www.digikey.com/en/products/detail/texas-instruments/TPS54202HDDCR/6026259 <br> <br>
 
 **6/15/2024 - Version 3.1c** <br>
 - It's been a long time coming but I wanted to make sure the RGBNES Versions were perfect. <br>
