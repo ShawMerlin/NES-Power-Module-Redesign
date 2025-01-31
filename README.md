@@ -2,14 +2,27 @@
 Completely Redesigning the NES Power Module to Reduce Noise and EMI <br>
  <br>
 
-6/15/2024
-Our first production run on NES Revival Classic RCA Editions have come in.  I have a few left on my eBay. <br>
-https://www.ebay.com/itm/145834635508 <br>
-Gerbers will be released later next week. <br>
+1/30/2025
+
+I would like to thank the retro community for the love and support I have received over the years. <br>
+At this time, I will no longer be offering these NES Boards on eBay or other channels. <br>
+It's been a great couple of years but I must move on to other things in life. <br>
+All of the Boards should have their Kicad files and Gerbers available on this Github. <br> <br>
+
+It's not too bad ordering 5 of them pre-assembled from JLCPCB and then just sell the other 4 to get a free board.  :) <br>
+I will not be able to provide support as well on these but I absolutely recommend the NES Help section on Dubesinhower Discord. <br>
+https://x.com/dubesinhower?lang=en&mx=2 <br> <br>
+
+There are a lot of amazing folks on that Discord Channel and in our community. <br>
+Thank you for letting me be a part of it. <br>
+
+-Merlin Shaw <br> <br> <br>
+
+6/15/2024 <br>
+Our first production run on NES Revival Classic RCA Editions have come in.  <br> <br>
 
 6/4/2024 <br>
-The NEW Revival RGBNES "Companion" Power Module production files have been released on this Github. <br>
-More boards are available on my eBay - https://www.ebay.com/itm/145572876666 <br> <br>
+The NEW Revival RGBNES "Companion" Power Module production files have been released on this Github. <br> <br>
 
 5/8/2024 <br>
 I have my first RGB "Companion" 3.1c production boards run ready for eBay.  <br> <br>
