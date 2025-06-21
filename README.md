@@ -2,6 +2,13 @@
 Completely Redesigning the NES Power Module to Reduce Noise and EMI <br>
  <br>
 
+6/21/2025
+- I love this community, there has been a lot of folks reaching out.  I am doing well.  :)
+- Zaxour, an amazing engineer and the person who helped me fix my design has his own version.
+- I would highly recommend if you need a board to check his out.  - https://ko-fi.com/s/a42a9b282f
+  
+<br>
+<br>
 1/30/2025
 
 I would like to thank the retro community for the love and support I have received over the years. <br>
